@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trangchu</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/cart.css">
+    <link rel="stylesheet" href="../css/dangnhap.css">
+</head>
+<body>
+    <!-- modal -->
+    <div>
+        <div class="modal_over show"></div>
+        <div class="modal_body show">
+            <i id="close" class="fas fa-window-close close"></i>
+            <div class="container">
+                <h1>Sign up</h1>
+                <form>
+                <div class="form-control">
+                    <input type="text" id="username" placeholder="Username" />
+                    <span></span>
+                    <small></small>
+                </div>
+                <div class="form-control">
+                    <input type="password" id="password" placeholder="Password" />
+                    <span></span>
+                    <small></small>
+                </div>
+                <input type="submit" value="Login" />
+                <div class="signup_link">Not a member? <a href="../html/dangki.html">Đăng kí</a></div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+    <!-- end modal -->
+
+    <header>
+        <div class="top-bar">
+            <div class="logo">
+                <img src="../images/hehe.png">
+            </div>
+            <div class="search-bar">
+                <div class="tim">
+                    <i class="fas fa-search iconseach"></i>
+                    <input type="text" id="searchInput" placeholder="Tìm kiếm mặt hàng bạn thích">
+                    <button id="searchButton">Tìm kiếm</button>
+                </div>
+            </div>
+            <div class="acc">
+               
+                    <div class="trangchu">
+                        <a href="trangchu.html">
+                        <i class="fas fa-home"></i>Trang chủ</a>
+                    </div>
+                    
+                    <div id="login" class="account-button">
+                        
+                            <i class="fas fa-user"></i>  Tài khoản
+                        
+                    </div>
+              
+            </div> 
+        </div>
+
+        <div class="thanhduoihead">
+        
+            <div class="check_1">
+                Cam kết
+            </div>
+        
+            <div class="check">
+                <i class="fas fa-check-circle"></i>100% Hàng thật
+            </div>
+        
+            <div class="check">
+                <i class="fas fa-truck"></i> Free ship mọi đơn
+            </div>
+        
+            <div class="check">
+                <i class="fas fa-clock"></i>Giao hàng nhanh
+            </div>
+        
+            <div class="check">
+                <i class="fas fa-dollar-sign"></i>Hoàn 200% nếu hàng giả
+            </div>
+        
+            <div class="check">
+                <i class="fas fa-phone"></i></i>0868.324.360
+            </div>
+        
+        </div>
+    </header>
+     <div class="body-box">
+        <!-- main -->
+        <div class="content">
+            <!-- gio hang-->
+            <div>
+                <div class="middle-box">
+                    <p class="first-text">Giỏ Hàng</p>
+                    <div id="productInfoBox">
+                        <div class="info">
+                            <div>Sản phẩm</div>
+                            <div>Đơn giá</div>
+                            <div>Số lượng</div>
+                            <div>Thành tiền</div>
+                        </div>
+                    </div>
+                    <div class="products" id="products"></div>
+                    <div id="totalAmountBox">
+                        <div class="total-price-box">
+                            <div class="location">
+                                <p style="font-size: 18px; color: gray;">Giao từ</p>
+                                <p style="font-weight: 600; margin-bottom: 5px;">Hoàng Bảo Phúc - 0357792170</p>
+                                <p style="color: grey; margin: 0;">
+                                    <span class="highlight">Nhà</span> 123 Đường Hạnh Phúc, Phường Mơ Ước, Quận Tưởng Tượng, Thành phố Vô Cùng, Việt Nam
+                                </p>
+                            </div>
+                            <div class="promotion">
+                                <p style="font-weight: 600;">Toko Khuyến Mãi</p>
+                                <p style="color: gray;">Giảm giá 10% cho khách hàng may mắn đầu tiên <br>Ưu đãi ngẫu nhiên dành cho khách hàng mới !
+                                </p>
+                            </div>
+                            <div class="totalPrice"> 
+                                <p style="padding-bottom: 15px; border-bottom: 3px solid #f5f5fa;">Tạm tính: <span id="temporaryTotalAmount">0</span></p>
+                                <p style="font-weight: 600;">Tổng số tiền (Đã áp dụng voucher): <span id="totalAmount">0</span></p>
+                                <div class="purchase-button">
+                                    <button onclick="purchase()">Mua hàng</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="cart" id="cart">
+                        <img src="../images/giohangtrong.png" id="emptyCartPic">
+                        <p id="emptyCartText1" style="font-weight: 600;">Giỏ hàng trống</p>
+                        <p id="emptyCartText2" style="padding-bottom: 20px;">Bạn tham khảo thêm các sản phẩm khác nhé !</p>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+        <!-- end main -->
+        <footer>
+            <div class="footer-container">
+                <div class="footer-column">
+                    <h3>Hỗ trợ Khách hàng</h3>
+                    <p>Hotline: <strong>1900-6035</strong></p>
+                    <ul>
+                        <li>Các câu hỏi thường gặp</li>
+                        <li>Gửi yêu cầu hỗ trợ</a></li>
+                        <li>Hướng dẫn đặt hàng</a></li>
+                        <li>Phương thức vận chuyển</a></li>
+                        <li>Chính sách đổi trả</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Về Toko</h3>
+                    <ul>
+                        <li>Giới thiệu Toko</li>
+                        <li>Toko Blog</a></li>
+                        <li>Tuyển dụng</a></li>
+                        <li>Chính sách bảo mật</a></li>
+                        <li>Điều khoản sử dụng</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Hợp tác và liên kết</h3>
+                    <ul>
+                        <li>Quy chế hoạt động Sàn GDTMĐT</a></li>
+                        <li>Bán hàng cùng Toko</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Phương thức thanh toán</h3>
+                    <img src="../images/thanhtoan.png" alt="Payment method 1">  
+                </div>
+                <div class="footer-column">
+                    <h3>Kết nối với chúng tôi</h3>
+                    <a href="#"><img src="../images/facebook.png" alt=""></a>  <a href="#"><img src="../images/youtube.png" alt=""></a>  <a href="#"><img src="../images/zalo.png"></a>
+                </div>
+            </div>
+        </footer>
+     </div>
+    <script src="../java/cart.js"></script>
+    <script src="../java/dangnhap.js"></script>
+</body>
+</html>

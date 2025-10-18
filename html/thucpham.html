@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thực Phẩm</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/danhmuc.css">
+    <link rel="stylesheet" href="../css/dangnhap.css">
+    
+</head>
+<body>
+    <!-- modal -->
+    <div>
+        <div class="modal_over show"></div>
+        <div class="modal_body show">
+            <i id="close" class="fas fa-window-close close"></i>
+            <div class="container">
+                <h1>Sign up</h1>
+                <form>
+                <div class="form-control">
+                    <input type="text" id="username" placeholder="Username" />
+                    <span></span>
+                    <small></small>
+                </div>
+                <div class="form-control">
+                    <input type="password" id="password" placeholder="Password" />
+                    <span></span>
+                    <small></small>
+                </div>
+                <input type="submit" value="Login" />
+                <div class="signup_link">Not a member? <a href="../html/dangki.html">Đăng kí</a></div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+    <!-- end modal -->
+    <header>
+        <div class="top-bar">
+            <div class="logo">
+                <img src="../images/hehe.png">
+            </div>
+            <div class="search-bar">
+                <div class="tim">
+                    <i class="fas fa-search iconseach"></i>
+                    <input type="text" id="searchInput" placeholder="Tìm kiếm mặt hàng bạn thích">
+                    <button id="searchButton">Tìm kiếm</button>
+                </div>
+            </div>
+            <div class="acc">
+               
+                    <div class="trangchu">
+                        <a href="trangchu.html">
+                        <i class="fas fa-home"></i>Trang chủ</a>
+                    </div>
+                    
+                    <div id="login" class="account-button">
+                        
+                            <i class="fas fa-user"></i>  Tài khoản
+                        
+                    </div>
+                    <div class="cart-button">
+                    <a href="cart.html">
+                        <i class="fas fa-shopping-cart"></i>
+                        <span id="cartCount">0</span> <!-- Cart count badge -->
+                    </a>
+                    </div>
+              
+            </div> 
+        </div>
+        <div class="thanhduoihead">
+
+            <div class="check_1">
+                Cam kết
+            </div>
+
+            <div class="check">
+                <i class="fas fa-check-circle"></i>100% Hàng thật
+            </div>
+
+            <div class="check">
+                <i class="fas fa-truck"></i> Free ship mọi đơn
+            </div>
+
+            <div class="check">
+                <i class="fas fa-clock"></i>Giao hàng nhanh
+            </div>
+
+            <div class="check">
+                <i class="fas fa-dollar-sign"></i>Hoàn 200% nếu hàng giả
+            </div>
+
+            <div class="check">
+                <i class="fas fa-phone"></i></i>0868.324.360
+            </div>
+
+        </div>
+    </header>
+    <div class="content">
+        <!-- menu -->
+        <div class="menu">
+            <nav>
+                <p style="color: rgb(18, 17, 17);font-size: 20px;text-align: center;">Danh mục</p>
+                <ul>
+                    <li><a href="sach.html"><img src="../images/menu1.webp" alt="">Nhà Sách</a></li>
+                    <li><a href="thucpham.html" style="color: rgb(68, 181, 36)"><img src="../images/menu10.webp" alt=""></i> Thực phẩm</a></li>
+                    <li><a href="dienthoai.html"><img src="../images/menu3.webp" alt="">Điện Thoại</a></li>
+                    <li><a href="diengiadung.html"><img src="../images/menu6.webp" alt="">Điện Gia Dụng</a></li>
+                    <li><a href="dochoi.html"><img src="../images/menu4.webp" alt="">Đồ Chơi</a></li>
+                    <li><a href="thietbiso.html"><img src="../images/menu5.webp" alt="">Thiết Bị Số</a></li>
+                    <li><a href="thoitrang.html"><img src="../images/menu9.webp" alt="">Thời Trang</a></li>
+                    <li><a href="thethao.html"><img src="../images/menu11.webp" alt="">Thể Thao</a></li>
+              </ul>
+            </nav>
+        </div>
+        <!-- endmenu -->
+        <!-- cot giua -->
+        <div class="mathang">
+        <!-- hang so 1 -->
+            <!-- slide dau -->
+           
+            <!-- end slide dau -->
+        
+        <!-- hang so2 -->
+        <div class="hang">
+            <!-- phần trên -->
+            <!-- end trên -->
+            <!-- phần dưới -->
+            <div class="product-grid">
+                <!-- thông tin 1 mặt hàng -->
+                    <div class="product-card"> 
+                        <a href="../html/sanpham.html?id=105">
+                        <img class="hinhmathang" src="../images/hatdieu1.webp" alt=""> 
+                        <img class="vienanh" src="../images/vienanh.png" alt="">
+                        <div class="thongtin">
+                            Hạt điều rang muối <br>
+                            <span class="gia" >89.000 đ</span> 
+                        <img class="sao" src="../images/ngoisao.png" alt="">
+                        </div></a>        
+                        <div class="shop">
+                            <div class="muangay">
+                                <a href="../html/sanpham.html?id=105"><button>Mua Ngay</button></a>
+                            </div>
+                            <div class="button-container">
+                              <button class="add-to-cart" data-name="Hạt điều rang muối" data-price="89000" data-image="../images/hatdieu1.webp">Thêm vào giỏ</button>
+                            </div>
+                        </div>
+                        <div class="endproduct-card">
+                            <div class="now"><img src="../images/now.png" alt=""></div>
+                            <div class="speed">Giao hàng siêu tốc</div>
+                        </div>
+                    </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                    <a href="../html/sanpham.html?id=106">
+                    <img class="hinhmathang" src="../images/mutxoai1.webp" alt="">
+                    <img class="vienanh" src="../images/vienanh.png" alt="">
+                    <div class="thongtin">
+                        Mứt xoài sấy dẻo <br>
+                        <span class="gia">65.000 đ</span>
+                    <img class="sao" src="../images/ngoisao.png" alt="">
+                    </div></a>        
+                    <div class="shop">
+                        <div class="muangay">
+                            <a href="../html/sanpham.html?id=106"><button>Mua Ngay</button></a>
+                        </div>
+                        <div class="button-container">
+                          <button class="add-to-cart" data-name="Mứt xoài sấy dẻo" data-price="65000" data-image="../images/mutxoai1.webp">Thêm vào giỏ</button>
+                        </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                    <a href="../html/sanpham.html?id=107">
+                    <img class="hinhmathang" src="../images/nhouc1.webp" alt="">
+                    <img class="vienanh" src="../images/vienanh.png" alt="">
+                    <div class="thongtin">
+                        Nho khô Úc <br>
+                        <span class="gia">89.000 đ</span>
+                    <img class="sao" src="../images/ngoisao.png" alt="">
+                    </div></a>        
+                    <div class="shop">
+                        <div class="muangay">
+                            <a href="../html/sanpham.html?id=107"><button>Mua Ngay</button></a>
+                        </div>
+                        <div class="button-container">
+                          <button class="add-to-cart" data-name="Nho khô Úc" data-price="89000" data-image="../images/nhouc1.webp" >Thêm vào giỏ</button>
+                        </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                <a href="../html/sanpham.html?id=108">
+                <img class="hinhmathang" src="../images/hatde1.webp" alt="">
+                <img class="vienanh" src="../images/vienanh.png" alt="">
+                <div class="thongtin">
+                    Hạt dẻ cười <br>
+                    <span class="gia">120.000 đ</span>
+                <img class="sao" src="../images/ngoisao.png" alt="">
+                </div></a>        
+                <div class="shop">
+                    <div class="muangay">
+                        <a href="../html/sanpham.html?id=108"><button>Mua Ngay</button></a>
+                    </div>
+                    <div class="button-container">
+                      <button class="add-to-cart" data-name="Hạt dẻ cười" data-price="120000" data-image="../images/hatde1.webp">Thêm vào giỏ</button>
+                    </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                <a href="../html/sanpham.html?id=109">
+                <img class="hinhmathang" src="../images/mokho1.webp" alt="">
+                <img class="vienanh" src="../images/vienanh.png" alt="">
+                <div class="thongtin">
+                    Mơ khô sấy dẻo <br>
+                    <span class="gia">72.000 đ</span>
+                <img class="sao" src="../images/ngoisao.png" alt="">
+                </div></a>        
+                <div class="shop">
+                    <div class="muangay">
+                        <a href="../html/sanpham.html?id=109"><button>Mua Ngay</button></a>
+                    </div>
+                    <div class="button-container">
+                      <button class="add-to-cart" data-name="Mơ khô sấy dẻo" data-price="72000" data-image="../images/mokho1.webp">Thêm vào giỏ</button>
+                    </div>
+                    </div>
+                <div class="endproduct-card">
+                    <div class="now"><img src="../images/now.png" alt=""></div>
+                    <div class="speed">Giao hàng siêu tốc</div>
+                </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+            </div>
+            <!-- end duoi -->
+            
+        </div>
+        <!-- end hang 2 -->
+        <!-- hang so3 -->
+        <div class="hang">
+            <!-- phần trên -->
+            <!-- end trên -->
+            <!-- phần dưới -->
+            <div class="product-grid">
+                <!-- thông tin 1 mặt hàng -->
+                    <div class="product-card"> 
+                        <a href="../html/sanpham.html?id=110">
+                        <img class="hinhmathang" src="../images/hanhnhan1.webp" alt=""> 
+                        <img class="vienanh" src="../images/vienanh.png" alt="">
+                        <div class="thongtin">
+                            Hạnh nhân rang muối <br>
+                            <span class="gia" >150.000 đ</span> 
+                        <img class="sao" src="../images/ngoisao.png" alt="">
+                        </div></a>        
+                        <div class="shop">
+                            <div class="muangay">
+                                <a href="../html/sanpham.html?id=110"><button>Mua Ngay</button></a>
+                            </div>
+                            <div class="button-container">
+                              <button class="add-to-cart" data-name="Hạnh nhân rang muối" data-price="150000" data-image="../images/hanhnhan1.webp">Thêm vào giỏ</button>
+                            </div>
+                        </div>
+                        <div class="endproduct-card">
+                            <div class="now"><img src="../images/now.png" alt=""></div>
+                            <div class="speed">Giao hàng siêu tốc</div>
+                        </div>
+                    </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                 <div class="product-card">
+                    <a href="../html/sanpham.html?id=111">
+                    <img class="hinhmathang" src="../images/taosay1.webp" alt="">
+                    <img class="vienanh" src="../images/vienanh.png" alt="">
+                    <div class="thongtin">
+                        Táo sấy dẻo <br>
+                        <span class="gia">65.000 đ</span>
+                    <img class="sao" src="../images/ngoisao.png" alt="">
+                    </div></a>        
+                    <div class="shop">
+                        <div class="muangay">
+                            <a href="../html/sanpham.html?id=111"><button>Mua Ngay</button></a>
+                        </div>
+                        <div class="button-container">
+                          <button class="add-to-cart" data-name="Táo sấy dẻo" data-price="65000" data-image="../images/taosay1.png">Thêm vào giỏ</button>
+                        </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                    <a href="../html/sanpham.html?id=112">
+                    <img class="hinhmathang" src="../images/chuoisay1.webp" alt="">
+                    <img class="vienanh" src="../images/vienanh.png" alt="">
+                    <div class="thongtin">
+                        Chuối sấy giòn <br>
+                        <span class="gia">54.000 đ</span>
+                    <img class="sao" src="../images/ngoisao.png" alt="">
+                    </div></a>        
+                    <div class="shop">
+                        <div class="muangay">
+                            <a href="../html/sanpham.html?id=112"><button>Mua Ngay</button></a>
+                        </div>
+                        <div class="button-container">
+                          <button class="add-to-cart" data-name="Chuối sấy giòn" data-price="54000" data-image="../images/chuoisay1.webp" >Thêm vào giỏ</button>
+                        </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                <a href="../html/sanpham.html?id=113">
+                <img class="hinhmathang" src="../images/mesay1.webp" alt="">
+                <img class="vienanh" src="../images/vienanh.png" alt="">
+                <div class="thongtin">
+                    Me sấy khô <br>
+                    <span class="gia">69.000 đ</span>
+                <img class="sao" src="../images/ngoisao.png" alt="">
+                </div></a>        
+                <div class="shop">
+                    <div class="muangay">
+                        <a href="../html/sanpham.html?id=113"><button>Mua Ngay</button></a>
+                    </div>
+                    <div class="button-container">
+                      <button class="add-to-cart" data-name="Me sấy khô" data-price="69000" data-image="../images/mesay1.png">Thêm vào giỏ</button>
+                    </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                <a href="../html/sanpham.html?id=114">
+                <img class="hinhmathang" src="../images/hatchia1.webp" alt="">
+                <img class="vienanh" src="../images/vienanh.png" alt="">
+                <div class="thongtin">
+                    Hạt chia organic <br>
+                    <span class="gia">80.000 đ</span>
+                <img class="sao" src="../images/ngoisao.png" alt="">
+                </div></a>        
+                <div class="shop">
+                    <div class="muangay">
+                        <a href="../html/sanpham.html?id=114"><button>Mua Ngay</button></a>
+                    </div>
+                    <div class="button-container">
+                      <button class="add-to-cart" data-name="Hạt chia organic" data-price="80000" data-image="../images/hatchia1.png">Thêm vào giỏ</button>
+                    </div>
+                    </div>
+                <div class="endproduct-card">
+                    <div class="now"><img src="../images/now.png" alt=""></div>
+                    <div class="speed">Giao hàng siêu tốc</div>
+                </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+            </div>
+            <!-- end duoi -->
+            
+        </div>
+        <!-- end hang 3 -->
+         <!-- hang so3 -->
+        <div class="hang">
+            <!-- phần trên -->
+            <!-- end trên -->
+            <!-- phần dưới -->
+            <div class="product-grid">
+                <!-- thông tin 1 mặt hàng -->
+                    <div class="product-card"> 
+                        <a href="../html/sanpham.html?id=115">
+                        <img class="hinhmathang" src="../images/occho1.webp" alt=""> 
+                        <img class="vienanh" src="../images/vienanh.png" alt="">
+                        <div class="thongtin">
+                            Óc chó nhập khẩu <br>
+                            <span class="gia" >165.000 đ</span> 
+                        <img class="sao" src="../images/ngoisao.png" alt="">
+                        </div></a>        
+                        <div class="shop">
+                            <div class="muangay">
+                                <a href="../html/sanpham.html?id=115"><button>Mua Ngay</button></a>
+                            </div>
+                            <div class="button-container">
+                              <button class="add-to-cart" data-name="Óc chó nhập khẩu" data-price="165000" data-image="../images/occho1.webp">Thêm vào giỏ</button>
+                            </div>
+                        </div>
+                        <div class="endproduct-card">
+                            <div class="now"><img src="../images/now.png" alt=""></div>
+                            <div class="speed">Giao hàng siêu tốc</div>
+                        </div>
+                    </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                 <div class="product-card">
+                    <a href="../html/sanpham.html?id=116">
+                    <img class="hinhmathang" src="../images/mitsay1.webp" alt="">
+                    <img class="vienanh" src="../images/vienanh.png" alt="">
+                    <div class="thongtin">
+                        Mít sấy giòn <br>
+                        <span class="gia">60.000 đ</span>
+                    <img class="sao" src="../images/ngoisao.png" alt="">
+                    </div></a>        
+                    <div class="shop">
+                        <div class="muangay">
+                            <a href="../html/sanpham.html?id=116"><button>Mua Ngay</button></a>
+                        </div>
+                        <div class="button-container">
+                          <button class="add-to-cart" data-name="Mít sấy giòn" data-price="60000" data-image="../images/mitsay1.webp">Thêm vào giỏ</button>
+                        </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                    <a href="../html/sanpham.html?id=117">
+                    <img class="hinhmathang" src="../images/duasay1.webp" alt="">
+                    <img class="vienanh" src="../images/vienanh.png" alt="">
+                    <div class="thongtin">
+                        Dừa sấy giòn <br>
+                        <span class="gia">55.000 đ</span>
+                    <img class="sao" src="../images/ngoisao.png" alt="">
+                    </div></a>        
+                    <div class="shop">
+                        <div class="muangay">
+                            <a href="../html/sanpham.html?id=117"><button>Mua Ngay</button></a>
+                        </div>
+                        <div class="button-container">
+                          <button class="add-to-cart" data-name="Dừa sấy giòn" data-price="55000" data-image="../images/duasay1.webp" >Thêm vào giỏ</button>
+                        </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                <a href="../html/sanpham.html?id=118">
+                <img class="hinhmathang" src="../images/khoaisay1.webp" alt="">
+                <img class="vienanh" src="../images/vienanh.png" alt="">
+                <div class="thongtin">
+                    Khoai lang sấy giòn<br>
+                    <span class="gia">57.000 đ</span>
+                <img class="sao" src="../images/ngoisao.png" alt="">
+                </div></a>        
+                <div class="shop">
+                    <div class="muangay">
+                        <a href="../html/sanpham.html?id=118"><button>Mua Ngay</button></a>
+                    </div>
+                    <div class="button-container">
+                      <button class="add-to-cart" data-name="Khoai lang sấy giòn" data-price="57000" data-image="../images/khoaisay1.webp">Thêm vào giỏ</button>
+                    </div>
+                    </div>
+                    <div class="endproduct-card">
+                        <div class="now"><img src="../images/now.png" alt=""></div>
+                        <div class="speed">Giao hàng siêu tốc</div>
+                    </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+                <!-- thông tin 1 mặt hàng -->
+                <div class="product-card">
+                <a href="../html/sanpham.html?id=119">
+                <img class="hinhmathang" src="../images/mankho1.webp" alt="">
+                <img class="vienanh" src="../images/vienanh.png" alt="">
+                <div class="thongtin">
+                    Mận khô <br>
+                    <span class="gia">90.000 đ</span>
+                <img class="sao" src="../images/ngoisao.png" alt="">
+                </div></a>        
+                <div class="shop">
+                    <div class="muangay">
+                        <a href="../html/sanpham.html?id=119"><button>Mua Ngay</button></a>
+                    </div>
+                    <div class="button-container">
+                      <button class="add-to-cart" data-name="Mận khô" data-price="90000" data-image="../images/mankho1.webp">Thêm vào giỏ</button>
+                    </div>
+                    </div>
+                <div class="endproduct-card">
+                    <div class="now"><img src="../images/now.png" alt=""></div>
+                    <div class="speed">Giao hàng siêu tốc</div>
+                </div>
+                </div>
+                <!-- end tt 1 mat hang -->
+            </div>
+            <!-- end duoi -->
+            
+        </div>
+        <!-- end hang 3 -->
+        
+        </div>
+        <!--end cột giữa-->
+        
+    </div>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-column">
+                <h3>Hỗ trợ Khách hàng</h3>
+                <p>Hotline: <strong>1900-6035</strong></p>
+                <ul>
+                    <li>Các câu hỏi thường gặp</li>
+                    <li>Gửi yêu cầu hỗ trợ</a></li>
+                    <li>Hướng dẫn đặt hàng</a></li>
+                    <li>Phương thức vận chuyển</a></li>
+                    <li>Chính sách đổi trả</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Về Toko</h3>
+                <ul>
+                    <li>Giới thiệu Toko</li>
+                    <li>Toko Blog</a></li>
+                    <li>Tuyển dụng</a></li>
+                    <li>Chính sách bảo mật</a></li>
+                    <li>Điều khoản sử dụng</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Hợp tác và liên kết</h3>
+                <ul>
+                    <li>Quy chế hoạt động Sàn GDTMĐT</a></li>
+                    <li>Bán hàng cùng Toko</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Phương thức thanh toán</h3>
+                <img src="../images/thanhtoan.png" alt="Payment method 1">  
+            </div>
+            <div class="footer-column">
+                <h3>Kết nối với chúng tôi</h3>
+                <a href="#"><img src="../images/facebook.png" alt=""></a>  <a href="#"><img src="../images/youtube.png" alt=""></a>  <a href="#"><img src="../images/zalo.png"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="../java/danhmuc.js"></script>
+    <script src="../java/dangnhap.js"></script>
+</body>
+</html>

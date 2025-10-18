@@ -1,0 +1,4598 @@
+[
+    {
+        "id": 0,
+        "name": "Nồi áp suất",
+        "brand": "Comet",
+        "features": "Nồi áp suất hiện đại với nhiều chức năng nấu ăn.",
+        "currentPrice": 116000,
+        "discount": 42,
+        "originalPrice": 200000,
+        "rating": 4.5,
+        "soldInfo": "(1500) | Đã bán 2k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "GIAM50",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "5 lít",
+            "brand": "Comet",
+            "brandOrigin": "Trung Quốc",
+            "material": ["Thân cốc: Bên trong: thép không gỉ 316L; bên ngoài: thép không gỉ SUS304", "Nắp: nhựa PP", "Gioăng & miếng lót đế: silicone"],
+            "model": "LHC3249WHT",
+            "size": "8.65 x 8.65 x 20.6 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,303 kg",
+            "guarantee": "Không"
+        },
+        "totalAmount": 116000,
+        "quantity": 1,
+        "mainImage": "../images/noiapsuat1.webp", 
+        "additionalImages": [
+            "../images/noiapsuat2.webp", 
+            "../images/noiapsuat3.webp"
+        ]
+},
+{
+    "id": 1,
+    "name": "Máy xay sinh tố",
+    "brand": "Philips",
+    "features": "Máy xay sinh tố với lưỡi dao thép không gỉ, có nhiều chế độ xay.",
+    "currentPrice": 850000,
+    "discount": 30,
+    "originalPrice": 1200000,
+    "rating": 4.7,
+    "soldInfo": "(2500) | Đã bán 3k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "SALE30",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "1.5 lít",
+        "brand": "Philips",
+        "brandOrigin": "Hà Lan",
+        "material": ["Thân máy: nhựa ABS", "Lưỡi dao: thép không gỉ"],
+        "model": "HR2223",
+        "size": "25 x 18 x 35 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "2 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 850000,
+    "quantity": 1,
+    "mainImage": "../images/mayxaysinhto1.webp", 
+    "additionalImages": [
+        "../images/mayxaysinhto2.webp", 
+        "../images/mayxaysinhto3.webp"
+    ]
+},
+{
+    "id": 2,
+    "name": "Bếp từ",
+    "brand": "Sunhouse",
+    "features": "Bếp từ công suất cao, tiết kiệm điện, an toàn cho người sử dụng.",
+    "currentPrice": 1300000,
+    "discount": 15,
+    "originalPrice": 1500000,
+    "rating": 4.8,
+    "soldInfo": "(3200) | Đã bán 5k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 800.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "N/A",
+        "brand": "Sunhouse",
+        "brandOrigin": "Việt Nam",
+        "material": ["Mặt kính: gốm chịu nhiệt", "Thân: nhựa ABS"],
+        "model": "SHD6800",
+        "size": "30 x 40 x 5 cm",
+        "madeIn": "Việt Nam",
+        "weight": "2.5 kg",
+        "guarantee": "24 tháng"
+    },
+    "totalAmount": 1300000,
+    "quantity": 1,
+    "mainImage": "../images/beptu1.webp", 
+    "additionalImages": [
+        "../images/beptu2.webp", 
+        "../images/beptu3.webp"
+    ]
+},
+{
+    "id": 3,
+    "name": "Nồi cơm điện",
+    "brand": "Panasonic",
+    "features": "Nồi cơm điện dung tích lớn, giữ ấm cơm trong nhiều giờ.",
+    "currentPrice": 950000,
+    "discount": 20,
+    "originalPrice": 1200000,
+    "rating": 4.6,
+    "soldInfo": "(1500) | Đã bán 4k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "1.8 lít",
+        "brand": "Panasonic",
+        "brandOrigin": "Nhật Bản",
+        "material": ["Thân: nhựa ABS", "Lòng nồi: hợp kim nhôm phủ chống dính"],
+        "model": "SR-CP108N",
+        "size": "30 x 30 x 25 cm",
+        "madeIn": "Thái Lan",
+        "weight": "2.3 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 950000,
+    "quantity": 1,
+    "mainImage": "../images/noicomdien1.webp", 
+    "additionalImages": [
+        "../images/noicomdien2.webp", 
+        "../images/noicomdien3.webp"
+    ]
+},
+{
+    "id": 4,
+    "name": "Máy hút bụi",
+    "brand": "Electrolux",
+    "features": "Máy hút bụi cầm tay, lực hút mạnh, dễ dàng vệ sinh.",
+    "currentPrice": 1800000,
+    "discount": 25,
+    "originalPrice": 2400000,
+    "rating": 4.7,
+    "soldInfo": "(1900) | Đã bán 3.5k",
+    "shipping": {
+        "destination": "Cần Thơ",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "HUT25",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "1.5 lít",
+        "brand": "Electrolux",
+        "brandOrigin": "Thụy Điển",
+        "material": ["Thân: nhựa cao cấp", "Bộ lọc: HEPA"],
+        "model": "Z1230",
+        "size": "50 x 30 x 30 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "3 kg",
+        "guarantee": "24 tháng"
+    },
+    "totalAmount": 1800000,
+    "quantity": 1,
+    "mainImage": "../images/mayhutbui1.webp", 
+    "additionalImages": [
+        "../images/mayhutbui2.webp", 
+        "../images/mayhutbui3.webp"
+    ]
+},
+{
+    "id": 5,
+    "name": "Máy giặt",
+    "brand": "LG",
+    "features": "Máy giặt lồng ngang, tiết kiệm nước và điện năng.",
+    "currentPrice": 7500000,
+    "discount": 10,
+    "originalPrice": 8300000,
+    "rating": 4.9,
+    "soldInfo": "(5000) | Đã bán 8k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "WASH10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "8 kg",
+        "brand": "LG",
+        "brandOrigin": "Hàn Quốc",
+        "material": ["Thân máy: thép không gỉ", "Lồng giặt: inox"],
+        "model": "FC1408S4W2",
+        "size": "60 x 60 x 85 cm",
+        "madeIn": "Hàn Quốc",
+        "weight": "65 kg",
+        "guarantee": "24 tháng"
+    },
+    "totalAmount": 7500000,
+    "quantity": 1,
+    "mainImage": "../images/maygiat1.webp", 
+    "additionalImages": [
+        "../images/maygiat2.webp", 
+        "../images/maygiat3.webp"
+    ]
+},
+{
+    "id": 6,
+    "name": "Lò vi sóng",
+    "brand": "Sharp",
+    "features": "Lò vi sóng dung tích lớn, tích hợp nướng đối lưu.",
+    "currentPrice": 2500000,
+    "discount": 20,
+    "originalPrice": 3100000,
+    "rating": 4.7,
+    "soldInfo": "(1200) | Đã bán 2.8k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "VI20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "30 lít",
+        "brand": "Sharp",
+        "brandOrigin": "Nhật Bản",
+        "material": ["Thân: thép không gỉ", "Cửa: kính chịu nhiệt"],
+        "model": "R-32A0VN",
+        "size": "50 x 40 x 30 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "15 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 2500000,
+    "quantity": 1,
+    "mainImage": "../images/lovisong1.png", 
+    "additionalImages": [
+        "../images/lovisong2.webp", 
+        "../images/lovisong3.webp"
+    ]
+},
+{
+    "id": 7,
+    "name": "Quạt điện",
+    "brand": "Midea",
+    "features": "Quạt điện đứng với 3 cấp độ gió, tiết kiệm điện năng.",
+    "currentPrice": 650000,
+    "discount": 10,
+    "originalPrice": 720000,
+    "rating": 4.5,
+    "soldInfo": "(1800) | Đã bán 4k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "QUAT10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "N/A",
+        "brand": "Midea",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Thân: nhựa ABS", "Cánh quạt: nhựa PVC"],
+        "model": "FS40-19PR",
+        "size": "45 x 45 x 120 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "4 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 650000,
+    "quantity": 1,
+    "mainImage": "../images/quatdien1.webp", 
+    "additionalImages": [
+        "../images/quatdien2.webp", 
+        "../images/quatdien3.webp"
+    ]
+},
+{
+    "id": 8,
+    "name": "Máy sấy tóc",
+    "brand": "Panasonic",
+    "features": "Máy sấy tóc công suất cao, có chế độ sấy mát và sấy nóng.",
+    "currentPrice": 420000,
+    "discount": 5,
+    "originalPrice": 450000,
+    "rating": 4.8,
+    "soldInfo": "(2700) | Đã bán 5k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "SAYTOC5",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "N/A",
+        "brand": "Panasonic",
+        "brandOrigin": "Nhật Bản",
+        "material": ["Thân: nhựa ABS", "Đầu sấy: nhựa chịu nhiệt"],
+        "model": "EH-NE65",
+        "size": "20 x 8 x 20 cm",
+        "madeIn": "Thái Lan",
+        "weight": "0.5 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 420000,
+    "quantity": 1,
+    "mainImage": "../images/maysaytoc1.png", 
+    "additionalImages": [
+        "../images/maysaytoc2.webp", 
+        "../images/maysaytoc3.webp"
+    ]
+},
+{
+    "id": 9,
+    "name": "Bình đun siêu tốc",
+    "brand": "Tefal",
+    "features": "Bình đun siêu tốc dung tích 1.7L, chống cạn nước.",
+    "currentPrice": 500000,
+    "discount": 10,
+    "originalPrice": 560000,
+    "rating": 4.6,
+    "soldInfo": "(1500) | Đã bán 3k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "TEFAL10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "1.7 lít",
+        "brand": "Tefal",
+        "brandOrigin": "Pháp",
+        "material": ["Thân: nhựa PP chịu nhiệt", "Mâm nhiệt: thép không gỉ"],
+        "model": "KO2608",
+        "size": "22 x 15 x 25 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "1.2 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 500000,
+    "quantity": 1,
+    "mainImage": "../images/binhdun1.png", 
+    "additionalImages": [
+        "../images/binhdun2.webp", 
+        "../images/binhdun3.webp"
+    ]
+},
+{
+    "id": 10,
+    "name": "Máy pha cà phê",
+    "brand": "Delonghi",
+    "features": "Máy pha cà phê tự động, nhiều chế độ pha.",
+    "currentPrice": 5500000,
+    "discount": 15,
+    "originalPrice": 6500000,
+    "rating": 4.9,
+    "soldInfo": "(1000) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "CAFE15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "1.5 lít",
+        "brand": "Delonghi",
+        "brandOrigin": "Ý",
+        "material": ["Thân máy: nhựa ABS", "Bình chứa nước: nhựa chịu nhiệt"],
+        "model": "ECAM22.110.SB",
+        "size": "40 x 30 x 35 cm",
+        "madeIn": "Ý",
+        "weight": "9 kg",
+        "guarantee": "24 tháng"
+    },
+    "totalAmount": 5500000,
+    "quantity": 1,
+    "mainImage": "../images/maypha1.webp", 
+    "additionalImages": [
+        "../images/maypha2.webp", 
+        "../images/maypha3.webp"
+    ]
+},
+{
+    "id": 11,
+    "name": "Bàn ủi",
+    "brand": "Philips",
+    "features": "Bàn ủi hơi nước, công nghệ chống dính, làm nóng nhanh.",
+    "currentPrice": 800000,
+    "discount": 20,
+    "originalPrice": 1000000,
+    "rating": 4.7,
+    "soldInfo": "(1300) | Đã bán 2.7k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "IRON20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "N/A",
+        "brand": "Philips",
+        "brandOrigin": "Hà Lan",
+        "material": ["Mặt đế: chống dính", "Thân: nhựa cao cấp"],
+        "model": "GC2998/80",
+        "size": "32 x 12 x 15 cm",
+        "madeIn": "Indonesia",
+        "weight": "1.2 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 800000,
+    "quantity": 1,
+    "mainImage": "../images/banui1.webp", 
+    "additionalImages": [
+        "../images/banui2.webp", 
+        "../images/banui3.webp"
+    ]
+},
+{
+    "id": 12,
+    "name": "Máy lọc không khí",
+    "brand": "Xiaomi",
+    "features": "Máy lọc không khí thông minh, hỗ trợ điều khiển qua app.",
+    "currentPrice": 2200000,
+    "discount": 18,
+    "originalPrice": 2700000,
+    "rating": 4.8,
+    "soldInfo": "(3200) | Đã bán 4k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "AIR18",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "Phòng 35m²",
+        "brand": "Xiaomi",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Thân: nhựa ABS", "Bộ lọc: HEPA"],
+        "model": "Mi Air Purifier 3H",
+        "size": "24 x 24 x 52 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "4.8 kg",
+        "guarantee": "24 tháng"
+    },
+    "totalAmount": 2200000,
+    "quantity": 1,
+    "mainImage": "../images/mayloc1.webp", 
+    "additionalImages": [
+        "../images/mayloc2.webp", 
+        "../images/mayloc3.webp"
+    ]
+},
+{
+    "id": 13,
+    "name": "Máy nước nóng",
+    "brand": "Ariston",
+    "features": "Máy nước nóng trực tiếp, tiết kiệm điện, an toàn chống giật.",
+    "currentPrice": 3200000,
+    "discount": 12,
+    "originalPrice": 3650000,
+    "rating": 4.6,
+    "soldInfo": "(1500) | Đã bán 2k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "HOT12",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "N/A",
+        "brand": "Ariston",
+        "brandOrigin": "Ý",
+        "material": ["Thân: nhựa cao cấp", "Ống dẫn: thép không gỉ"],
+        "model": "SM45PE-VN",
+        "size": "38 x 26 x 8 cm",
+        "madeIn": "Việt Nam",
+        "weight": "3 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 3200000,
+    "quantity": 1,
+    "mainImage": "../images/maynuocnong1.webp", 
+    "additionalImages": [
+        "../images/maynuocnong2.webp", 
+        "../images/maynuocnong3.webp"
+    ]
+},
+{
+    "id": 14,
+    "name": "Tủ lạnh",
+    "brand": "Samsung",
+    "features": "Tủ lạnh dung tích 236L, công nghệ tiết kiệm điện Inverter.",
+    "currentPrice": 7500000,
+    "discount": 10,
+    "originalPrice": 8300000,
+    "rating": 4.9,
+    "soldInfo": "(4000) | Đã bán 6k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "SAM10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "236 lít",
+        "brand": "Samsung",
+        "brandOrigin": "Hàn Quốc",
+        "material": ["Thân: thép không gỉ", "Kệ: kính chịu lực"],
+        "model": "RT22M4032DX",
+        "size": "60 x 65 x 150 cm",
+        "madeIn": "Thái Lan",
+        "weight": "55 kg",
+        "guarantee": "24 tháng"
+    },
+    "totalAmount": 7500000,
+    "quantity": 1,
+    "mainImage": "../images/tulanh1.webp", 
+    "additionalImages": [
+        "../images/tulanh2.webp", 
+        "../images/tulanh3.webp"
+    ]
+},
+{
+    "id": 15,
+    "name": "Điện thoại Samsung",
+    "brand": "Samsung",
+    "features": "Điện thoại thông minh với màn hình lớn và camera chất lượng cao.",
+    "currentPrice": 15000000,
+    "discount": 20,
+    "originalPrice": 18750000,
+    "rating": 4.7,
+    "soldInfo": "(200) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM100",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Samsung",
+        "brandOrigin": "Hàn Quốc",
+        "material": ["Mặt trước: Kính cường lực Gorilla Glass", "Mặt lưng: Nhựa", "Khung: Nhôm"],
+        "model": "Galaxy S21",
+        "size": "15.4 x 7.3 x 0.7 cm",
+        "madeIn": "Hàn Quốc",
+        "weight": "0,169 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 15000000,
+    "quantity": 1,
+    "mainImage": "../images/samsung1.webp", 
+    "additionalImages": [
+        "../images/samsung2.webp", 
+        "../images/samsung3.webp"
+    ]
+},
+{
+    "id": 16,
+    "name": "Điện thoại Xiaomi",
+    "brand": "Xiaomi",
+    "features": "Điện thoại với camera 108MP và pin lâu dài.",
+    "currentPrice": 12000000,
+    "discount": 15,
+    "originalPrice": 14117647,
+    "rating": 4.6,
+    "soldInfo": "(300) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM50",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "256 GB",
+        "brand": "Xiaomi",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính cường lực", "Mặt lưng: Kính", "Khung: Nhôm"],
+        "model": "Mi 11",
+        "size": "16.5 x 7.5 x 0.8 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,196 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 12000000,
+    "quantity": 1,
+    "mainImage": "../images/xiaomi1.webp",
+    "additionalImages": [
+        "../images/xiaomi2.webp",
+        "../images/xiaomi3.webp"
+    ]
+},
+{
+    "id": 17,
+    "name": "Điện thoại Oppo",
+    "brand": "Oppo",
+    "features": "Điện thoại với thiết kế mỏng và hiệu suất mạnh mẽ.",
+    "currentPrice": 9500000,
+    "discount": 10,
+    "originalPrice": 10500000,
+    "rating": 4.5,
+    "soldInfo": "(250) | Đã bán 800",
+    "shipping": {
+        "destination": "Cần Thơ",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 700.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM30",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Oppo",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính cường lực", "Mặt lưng: Nhựa", "Khung: Nhôm"],
+        "model": "Reno 5",
+        "size": "16.1 x 7.3 x 0.7 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,171 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 9500000,
+    "quantity": 1,
+    "mainImage": "../images/oppo1.webp",
+    "additionalImages": [
+        "../images/oppo2.webp",
+        "../images/oppo3.webp"
+    ]
+},
+{
+    "id": 18,
+    "name": "Điện thoại Vivo",
+    "brand": "Vivo",
+    "features": "Điện thoại với camera selfie 44MP và pin 5000mAh.",
+    "currentPrice": 8500000,
+    "discount": 12,
+    "originalPrice": 9650000,
+    "rating": 4.4,
+    "soldInfo": "(180) | Đã bán 600",
+    "shipping": {
+        "destination": "Nha Trang",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Vivo",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Kính", "Khung: Nhôm"],
+        "model": "V21",
+        "size": "15.9 x 7.3 x 0.7 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,173 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 8500000,
+    "quantity": 1,
+    "mainImage": "../images/vivo1.webp",
+    "additionalImages": [
+        "../images/vivo2.webp",
+        "../images/vivo3.webp"
+    ]
+},
+{
+    "id": 19,
+    "name": "Điện thoại Realme",
+    "brand": "Realme",
+    "features": "Điện thoại với hiệu năng mạnh mẽ và thiết kế trẻ trung.",
+    "currentPrice": 7200000,
+    "discount": 18,
+    "originalPrice": 8780000,
+    "rating": 4.3,
+    "soldInfo": "(150) | Đã bán 400",
+    "shipping": {
+        "destination": "Hải Phòng",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 800.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "64 GB",
+        "brand": "Realme",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Nhựa", "Khung: Nhôm"],
+        "model": "Realme 8",
+        "size": "15.5 x 7.3 x 0.8 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,179 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 7200000,
+    "quantity": 1,
+    "mainImage": "../images/realme1.webp",
+    "additionalImages": [
+        "../images/realme2.webp",
+        "../images/realme3.webp"
+    ]
+},
+{
+    "id": 20,
+    "name": "Điện thoại Nokia",
+    "brand": "Nokia",
+    "features": "Điện thoại bền bỉ với pin lâu dài và tính năng cơ bản.",
+    "currentPrice": 2500000,
+    "discount": 10,
+    "originalPrice": 2750000,
+    "rating": 4.2,
+    "soldInfo": "(120) | Đã bán 300",
+    "shipping": {
+        "destination": "Biên Hòa",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "16 GB",
+        "brand": "Nokia",
+        "brandOrigin": "Phần Lan",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Nhựa", "Khung: Nhựa"],
+        "model": "Nokia 2.4",
+        "size": "15.7 x 7.6 x 0.8 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,189 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 2500000,
+    "quantity": 1,
+    "mainImage": "../images/nokia1.webp",
+    "additionalImages": [
+        "../images/nokia2.webp",
+        "../images/nokia3.webp"
+    ]
+},
+{
+    "id": 21,
+    "name": "Điện thoại Huawei",
+    "brand": "Huawei",
+    "features": "Điện thoại với camera chất lượng và hiệu suất tốt.",
+    "currentPrice": 11000000,
+    "discount": 25,
+    "originalPrice": 14666667,
+    "rating": 4.5,
+    "soldInfo": "(210) | Đã bán 900",
+    "shipping": {
+        "destination": "Nam Định",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM80",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Huawei",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Kính", "Khung: Nhôm"],
+        "model": "P40",
+        "size": "15.7 x 7.6 x 0.9 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,175 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 11000000,
+    "quantity": 1,
+    "mainImage": "../images/huawei1.webp",
+    "additionalImages": [
+        "../images/huawei2.webp",
+        "../images/huawei3.webp"
+    ]
+},
+{
+    "id": 22,
+    "name": "Điện thoại Sony",
+    "brand": "Sony",
+    "features": "Điện thoại với màn hình 4K và âm thanh chất lượng cao.",
+    "currentPrice": 16000000,
+    "discount": 5,
+    "originalPrice": 16800000,
+    "rating": 4.8,
+    "soldInfo": "(180) | Đã bán 450",
+    "shipping": {
+        "destination": "Vĩnh Phúc",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM200",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "256 GB",
+        "brand": "Sony",
+        "brandOrigin": "Nhật Bản",
+        "material": ["Mặt trước: Kính cường lực", "Mặt lưng: Kính", "Khung: Nhôm"],
+        "model": "Xperia 1 III",
+        "size": "16 x 6.9 x 0.8 cm",
+        "madeIn": "Nhật Bản",
+        "weight": "0,228 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 16000000,
+    "quantity": 1,
+    "mainImage": "../images/sony1.webp",
+    "additionalImages": [
+        "../images/sony2.webp",
+        "../images/sony3.webp"
+    ]
+},
+{
+    "id": 23,
+    "name": "Điện thoại OnePlus",
+    "brand": "OnePlus",
+    "features": "Điện thoại với hiệu năng cao và thiết kế sang trọng.",
+    "currentPrice": 13000000,
+    "discount": 15,
+    "originalPrice": 15294118,
+    "rating": 4.6,
+    "soldInfo": "(150) | Đã bán 500",
+    "shipping": {
+        "destination": "Đà Lạt",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM100",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "OnePlus",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Kính", "Khung: Nhôm"],
+        "model": "OnePlus 9",
+        "size": "16.2 x 7.4 x 0.8 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,192 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 13000000,
+    "quantity": 1,
+    "mainImage": "../images/oneplus1.webp",
+    "additionalImages": [
+        "../images/oneplus2.webp",
+        "../images/oneplus3.webp"
+    ]
+},
+{
+    "id": 24,
+    "name": "Điện thoại Google",
+    "brand": "Google",
+    "features": "Điện thoại với phần mềm tối ưu và camera xuất sắc.",
+    "currentPrice": 11000000,
+    "discount": 20,
+    "originalPrice": 13750000,
+    "rating": 4.7,
+    "soldInfo": "(250) | Đã bán 700",
+    "shipping": {
+        "destination": "Quảng Ninh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM50",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Google",
+        "brandOrigin": "Mỹ",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Nhựa", "Khung: Nhôm"],
+        "model": "Pixel 6",
+        "size": "15.8 x 7.1 x 0.8 cm",
+        "madeIn": "Việt Nam",
+        "weight": "0,207 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 11000000,
+    "quantity": 1,
+    "mainImage": "../images/google1.webp",
+    "additionalImages": [
+        "../images/google2.webp",
+        "../images/google3.webp"
+    ]
+},
+{
+    "id": 25,
+    "name": "Điện thoại Asus",
+    "brand": "Asus",
+    "features": "Điện thoại với hiệu suất cao và pin lâu dài.",
+    "currentPrice": 9000000,
+    "discount": 10,
+    "originalPrice": 10000000,
+    "rating": 4.4,
+    "soldInfo": "(160) | Đã bán 350",
+    "shipping": {
+        "destination": "Hà Giang",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM25",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Asus",
+        "brandOrigin": "Đài Loan",
+        "material": ["Mặt trước: Kính cường lực", "Mặt lưng: Nhựa", "Khung: Nhôm"],
+        "model": "Zenfone 8",
+        "size": "15.4 x 7.3 x 0.8 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,169 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 9000000,
+    "quantity": 1,
+    "mainImage": "../images/asus1.webp",
+    "additionalImages": [
+        "../images/asus2.webp",
+        "../images/asus3.webp"
+    ]
+},
+{
+    "id": 26,
+    "name": "Điện thoại Motorola",
+    "brand": "Motorola",
+    "features": "Điện thoại với thiết kế đơn giản và hiệu suất ổn định.",
+    "currentPrice": 5500000,
+    "discount": 8,
+    "originalPrice": 5980000,
+    "rating": 4.1,
+    "soldInfo": "(90) | Đã bán 200",
+    "shipping": {
+        "destination": "Kiên Giang",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "32 GB",
+        "brand": "Motorola",
+        "brandOrigin": "Mỹ",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Nhựa", "Khung: Nhựa"],
+        "model": "Moto G Power",
+        "size": "15.5 x 7.3 x 0.9 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,193 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 5500000,
+    "quantity": 1,
+    "mainImage": "../images/motorola1.jpg",
+    "additionalImages": [
+        "../images/motorola2.jpg",
+        "../images/motorola3.webp"
+    ]
+},
+{
+    "id": 27,
+    "name": "Điện thoại ZTE",
+    "brand": "ZTE",
+    "features": "Điện thoại với hiệu suất ổn và giá cả phải chăng.",
+    "currentPrice": 3000000,
+    "discount": 5,
+    "originalPrice": 3157895,
+    "rating": 4.0,
+    "soldInfo": "(80) | Đã bán 150",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM5",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "16 GB",
+        "brand": "ZTE",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Nhựa", "Khung: Nhựa"],
+        "model": "Blade A3",
+        "size": "14.5 x 7.0 x 0.9 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,180 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 3000000,
+    "quantity": 1,
+    "mainImage": "../images/zte1.webp",
+    "additionalImages": [
+        "../images/zte2.webp",
+        "../images/zte3.webp"
+    ]
+},
+{
+    "id": 28,
+    "name": "Điện thoại Infinix",
+    "brand": "Infinix",
+    "features": "Điện thoại với thiết kế trẻ trung và tính năng giải trí.",
+    "currentPrice": 4000000,
+    "discount": 10,
+    "originalPrice": 4444444,
+    "rating": 4.2,
+    "soldInfo": "(70) | Đã bán 120",
+    "shipping": {
+        "destination": "Đồng Nai",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM50",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "64 GB",
+        "brand": "Infinix",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Mặt trước: Kính", "Mặt lưng: Nhựa", "Khung: Nhựa"],
+        "model": "Hot 10",
+        "size": "16.5 x 7.5 x 0.8 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,192 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 4000000,
+    "quantity": 1,
+    "mainImage": "../images/infinix1.webp",
+    "additionalImages": [
+        "../images/infinix2.webp",
+        "../images/infinix3.webp"
+    ]
+},
+{
+    "id": 29,
+    "name": "Điện thoại iPhone",
+    "brand": "Apple",
+    "features": "Điện thoại với hiệu suất mạnh mẽ và camera tiên tiến.",
+    "currentPrice": 22000000,
+    "discount": 10,
+    "originalPrice": 24490000,
+    "rating": 4.9,
+    "soldInfo": "(300) | Đã bán 800",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM500",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "128 GB",
+        "brand": "Apple",
+        "brandOrigin": "Mỹ",
+        "material": ["Mặt trước: Kính cường lực", "Mặt lưng: Kính", "Khung: Nhôm"],
+        "model": "iPhone 13",
+        "size": "14.7 x 7.1 x 0.7 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0,174 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 22000000,
+    "quantity": 1,
+    "mainImage": "../images/iphone1.webp",
+    "additionalImages": [
+        "../images/iphone2.webp",
+        "../images/iphone3.webp"
+    ]
+},
+{
+    "id": 30,
+    "name": "Bộ xếp hình Lego",
+    "brand": "Lego",
+    "features": "Bộ đồ chơi xếp hình sáng tạo dành cho trẻ em, giúp phát triển trí thông minh và khả năng tư duy.",
+    "currentPrice": 350000,
+    "discount": 20,
+    "originalPrice": 437500,
+    "rating": 4.8,
+    "soldInfo": "(500) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "LEGO20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity":"",
+        "brand": "Lego",
+        "brandOrigin": "Đan Mạch",
+        "material": ["Nhựa ABS"],
+        "model": "LEGO75015",
+        "size": "30 x 20 x 10 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "1.5 kg",
+        "guarantee": "1 năm"
+    },
+    "totalAmount": 350000,
+    "quantity": 1,
+    "mainImage": "../images/legoset1.webp", 
+    "additionalImages": [
+        "../images/legoset2.webp", 
+        "../images/legoset3.webp"
+    ]
+},
+{
+    "id": 31,
+    "name": "Xe điều khiển từ xa",
+    "brand": "Tamiya",
+    "features": "Xe đua điều khiển từ xa với tốc độ cao và khả năng leo dốc vượt trội.",
+    "currentPrice": 450000,
+    "discount": 25,
+    "originalPrice": 600000,
+    "rating": 4.7,
+    "soldInfo": "(300) | Đã bán 1k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-6 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 400.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "XE25",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Tamiya",
+        "brandOrigin": "Nhật Bản",
+        "material": ["Nhựa ABS", "Kim loại"],
+        "model": "TAMY85023",
+        "size": "40 x 20 x 15 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "1.2 kg",
+        "guarantee": "6 tháng"
+    },
+    "totalAmount": 450000,
+    "quantity": 1,
+    "mainImage": "../images/xedieukhientuxa1.webp",
+    "additionalImages": [
+        "../images/xedieukhientuxa2.webp",
+        "../images/xedieukhientuxa3.webp"
+    ]
+},
+{
+    "id": 32,
+    "name": "Robot đồ chơi thông minh",
+    "brand": "Xiaomi",
+    "features": "Robot thông minh có khả năng giao tiếp và nhận diện giọng nói.",
+    "currentPrice": 750000,
+    "discount": 30,
+    "originalPrice": 1071000,
+    "rating": 4.9,
+    "soldInfo": "(1200) | Đã bán 2.5k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "ROBOT30",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Xiaomi",
+        "brandOrigin": "Trung Quốc",
+        "material": ["Nhựa cao cấp"],
+        "model": "XM-RB789",
+        "size": "25 x 15 x 10 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0.9 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 750000,
+    "quantity": 1,
+    "mainImage": "../images/robotdochoi1.webp",
+    "additionalImages": [
+        "../images/robotdochoi2.webp",
+        "../images/robotdochoi3.webp"
+    ]
+},
+{
+    "id": 33,
+    "name": "Búp bê công chúa",
+    "brand": "Barbie",
+    "features": "Búp bê công chúa với trang phục lộng lẫy và phụ kiện đầy đủ.",
+    "currentPrice": 550000,
+    "discount": 15,
+    "originalPrice": 647000,
+    "rating": 4.6,
+    "soldInfo": "(800) | Đã bán 3k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "BB15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Barbie",
+        "brandOrigin": "Mỹ",
+        "material": ["Nhựa ABS", "Vải"],
+        "model": "BB2023",
+        "size": "30 x 10 x 5 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0.5 kg",
+        "guarantee": "Không"
+    },
+    "totalAmount": 550000,
+    "quantity": 1,
+    "mainImage": "../images/barbie1.webp",
+    "additionalImages": [
+        "../images/barbie2.webp",
+        "../images/barbie3.webp"
+    ]
+},
+{
+    "id": 34,
+    "name": "Đồ chơi nhà bếp",
+    "brand": "KidKraft",
+    "features": "Bộ đồ chơi nhà bếp với đầy đủ dụng cụ nấu ăn cho bé.",
+    "currentPrice": 1200000,
+    "discount": 20,
+    "originalPrice": 1500000,
+    "rating": 4.8,
+    "soldInfo": "(300) | Đã bán 800",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 2-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "BEP20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "KidKraft",
+        "brandOrigin": "Mỹ",
+        "material": ["Nhựa cao cấp"],
+        "model": "KK1234",
+        "size": "70 x 40 x 20 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "3.5 kg",
+        "guarantee": "6 tháng"
+    },
+    "totalAmount": 1200000,
+    "quantity": 1,
+    "mainImage": "../images/nhabep1.webp",
+    "additionalImages": [
+        "../images/nhabep2.webp",
+        "../images/nhabep3.webp"
+    ]
+},
+{
+    "id": 35,
+    "name": "Đồ chơi ghép hình 3D",
+    "brand": "Ravensburger",
+    "features": "Bộ ghép hình 3D giúp trẻ em phát triển khả năng tư duy sáng tạo.",
+    "currentPrice": 320000,
+    "discount": 10,
+    "originalPrice": 355000,
+    "rating": 4.5,
+    "soldInfo": "(200) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 3-6 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 400.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "PUZZLE10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Ravensburger",
+        "brandOrigin": "Đức",
+        "material": ["Giấy cứng"],
+        "model": "RVB3421",
+        "size": "50 x 70 cm khi hoàn thành",
+        "madeIn": "Đức",
+        "weight": "1 kg",
+        "guarantee": "Không"
+    },
+    "totalAmount": 320000,
+    "quantity": 1,
+    "mainImage": "../images/ghephinh1.webp",
+    "additionalImages": [
+        "../images/ghephinh2.webp",
+        "../images/ghephinh3.webp"
+    ]
+},
+{
+    "id": 36,
+    "name": "Bóng rổ mini",
+    "brand": "Spalding",
+    "features": "Bộ bóng rổ mini cho trẻ em chơi tại nhà, giúp phát triển thể chất.",
+    "currentPrice": 250000,
+    "discount": 15,
+    "originalPrice": 294000,
+    "rating": 4.6,
+    "soldInfo": "(600) | Đã bán 1.8k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 250.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "BONG15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Spalding",
+        "brandOrigin": "Mỹ",
+        "material": ["Nhựa, Cao su"],
+        "model": "SP4567",
+        "size": "30 x 30 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0.7 kg",
+        "guarantee": "6 tháng"
+    },
+    "totalAmount": 250000,
+    "quantity": 1,
+    "mainImage": "../images/bongro1.webp",
+    "additionalImages": [
+        "../images/bongro2.webp",
+        "../images/bongro3.webp"
+    ]
+},
+{
+    "id": 37,
+    "name": "Đồ chơi câu cá",
+    "brand": "Fisher-Price",
+    "features": "Bộ đồ chơi câu cá phát triển sự tập trung và khéo léo cho bé.",
+    "currentPrice": 180000,
+    "discount": 20,
+    "originalPrice": 225000,
+    "rating": 4.7,
+    "soldInfo": "(900) | Đã bán 1.2k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 2-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 200.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "CACA20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Fisher-Price",
+        "brandOrigin": "Mỹ",
+        "material": ["Nhựa ABS"],
+        "model": "FP6789",
+        "size": "20 x 20 x 10 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0.4 kg",
+        "guarantee": "Không"
+    },
+    "totalAmount": 180000,
+    "quantity": 1,
+    "mainImage": "../images/cauca1.webp",
+    "additionalImages": [
+        "../images/cauca2.webp",
+        "../images/cauca3.webp"
+    ]
+},
+{
+    "id": 38,
+    "name": "Bộ đồ chơi cờ vua",
+    "brand": "Chess Master",
+    "features": "Bộ cờ vua cao cấp giúp bé phát triển tư duy chiến lược.",
+    "currentPrice": 300000,
+    "discount": 10,
+    "originalPrice": 333000,
+    "rating": 4.8,
+    "soldInfo": "(1000) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "CHESS10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Chess Master",
+        "brandOrigin": "Anh",
+        "material": ["Gỗ", "Nhựa"],
+        "model": "CHM5647",
+        "size": "40 x 40 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "1 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 300000,
+    "quantity": 1,
+    "mainImage": "../images/chess1.webp",
+    "additionalImages": [
+        "../images/chess2.webp",
+        "../images/chess3.webp"
+    ]
+},
+{
+    "id": 39,
+    "name": "Bộ đồ chơi xếp hình nam châm",
+    "brand": "Magformers",
+    "features": "Bộ xếp hình nam châm sáng tạo, phát triển trí tuệ cho bé.",
+    "currentPrice": 450000,
+    "discount": 20,
+    "originalPrice": 562500,
+    "rating": 4.9,
+    "soldInfo": "(700) | Đã bán 2k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "MAGNET20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Magformers",
+        "brandOrigin": "Hàn Quốc",
+        "material": ["Nhựa ABS", "Nam châm"],
+        "model": "MGF101",
+        "size": "30 x 30 x 15 cm",
+        "madeIn": "Hàn Quốc",
+        "weight": "1.5 kg",
+        "guarantee": "6 tháng"
+    },
+    "totalAmount": 450000,
+    "quantity": 1,
+    "mainImage": "../images/magformers1.webp",
+    "additionalImages": [
+        "../images/magformers2.webp",
+        "../images/magformers3.webp"
+    ]
+},
+{
+    "id": 40,
+    "name": "Bộ đồ chơi cắt hoa quả",
+    "brand": "Melissa & Doug",
+    "features": "Bộ đồ chơi cắt hoa quả giúp bé phát triển kỹ năng tay.",
+    "currentPrice": 280000,
+    "discount": 15,
+    "originalPrice": 330000,
+    "rating": 4.8,
+    "soldInfo": "(500) | Đã bán 1.2k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 2-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 200.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "CUTFRUIT15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity":"" ,
+        "brand": "Melissa & Doug",
+        "brandOrigin": "Mỹ",
+        "material": ["Gỗ", "Nam châm"],
+        "model": "MD0987",
+        "size": "25 x 20 x 5 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "0.8 kg",
+        "guarantee": "Không"
+    },
+    "totalAmount": 280000,
+    "quantity": 1,
+    "mainImage": "../images/cuthoaqua1.webp",
+    "additionalImages": [
+        "../images/cuthoaqua2.webp",
+        "../images/cuthoaqua3.webp"
+    ]
+},
+{
+    "id": 41,
+    "name": "Bộ đồ chơi dụng cụ sửa chữa",
+    "brand": "Bosch",
+    "features": "Bộ dụng cụ sửa chữa mini, phát triển kỹ năng thực hành cho bé.",
+    "currentPrice": 390000,
+    "discount": 10,
+    "originalPrice": 433000,
+    "rating": 4.7,
+    "soldInfo": "(300) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "TOOL10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity":"" ,
+        "brand": "Bosch",
+        "brandOrigin": "Đức",
+        "material": ["Nhựa ABS"],
+        "model": "BCH4567",
+        "size": "40 x 30 x 10 cm",
+        "madeIn": "Đức",
+        "weight": "2 kg",
+        "guarantee": "6 tháng"
+    },
+    "totalAmount": 390000,
+    "quantity": 1,
+    "mainImage": "../images/dungcu1.webp",
+    "additionalImages": [
+        "../images/dungcu2.webp",
+        "../images/dungcu3.webp"
+    ]
+},
+{
+    "id": 42,
+    "name": "Xe scooter trẻ em",
+    "brand": "Micro",
+    "features": "Xe scooter cao cấp, dễ dàng điều khiển, phù hợp cho trẻ từ 3 tuổi.",
+    "currentPrice": 1200000,
+    "discount": 20,
+    "originalPrice": 1500000,
+    "rating": 4.9,
+    "soldInfo": "(150) | Đã bán 500",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "SCOOTER20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity":"",
+        "brand": "Micro",
+        "brandOrigin": "Thụy Sĩ",
+        "material": ["Nhôm", "Nhựa cao cấp"],
+        "model": "MS1234",
+        "size": "60 x 20 x 80 cm",
+        "madeIn": "Thụy Sĩ",
+        "weight": "3.5 kg",
+        "guarantee": "12 tháng"
+    },
+    "totalAmount": 1200000,
+    "quantity": 1,
+    "mainImage": "../images/scooter1.webp",
+    "additionalImages": [
+        "../images/scooter2.webp",
+        "../images/scooter3.webp"
+    ]
+},
+{
+    "id": 43,
+    "name": "Đồ chơi tàu hỏa",
+    "brand": "Thomas & Friends",
+    "features": "Bộ đồ chơi tàu hỏa với các toa tàu kết nối linh hoạt.",
+    "currentPrice": 350000,
+    "discount": 15,
+    "originalPrice": 411000,
+    "rating": 4.7,
+    "soldInfo": "(400) | Đã bán 1k",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-6 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "TRAIN15",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Thomas & Friends",
+        "brandOrigin": "Anh",
+        "material": ["Nhựa ABS"],
+        "model": "TF2345",
+        "size": "50 x 30 x 20 cm",
+        "madeIn": "Trung Quốc",
+        "weight": "1 kg",
+        "guarantee": "Không"
+    },
+    "totalAmount": 350000,
+    "quantity": 1,
+    "mainImage": "../images/tauhoa1.webp",
+    "additionalImages": [
+        "../images/tauhoa2.webp",
+        "../images/tauhoa3.webp"
+    ]
+},
+{
+    "id": 44,
+    "name": "Đồ chơi cát tạo hình",
+    "brand": "Kinetic Sand",
+    "features": "Bộ cát tạo hình mềm mịn, dễ dàng tạo nên các mô hình độc đáo.",
+    "currentPrice": 280000,
+    "discount": 10,
+    "originalPrice": 311000,
+    "rating": 4.6,
+    "soldInfo": "(800) | Đã bán 2k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 200.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "SAND10",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity":"" ,
+        "brand": "Kinetic Sand",
+        "brandOrigin": "Thụy Điển",
+        "material": ["Cát tự nhiên, Polymer"],
+        "model": "KS1024",
+        "size": "20 x 20 x 10 cm",
+        "madeIn": "Thụy Điển",
+        "weight": "1 kg",
+        "guarantee": "Không"
+    },
+    "totalAmount": 280000,
+    "quantity": 1,
+    "mainImage": "../images/cattaohinh1.webp",
+    "additionalImages": [
+        "../images/cattaohinh2.webp",
+        "../images/cattaohinh3.webp"
+    ]
+},
+{
+    "id": 45,
+    "name": "Áo thun",
+    "brand": "Uniqlo",
+    "features": "Áo thun nam chất liệu cotton thoáng mát, dễ chịu.",
+    "currentPrice": 250000,
+    "discount": 20,
+    "originalPrice": 312500,
+    "rating": 4.7,
+    "soldInfo": "(500) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "",
+        "freeshipInfo": "",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Uniqlo",
+        "brandOrigin": "Nhật Bản",
+        "material": ["100% cotton"],
+        "model": "",
+        "size": "M",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 250000,
+    "quantity": 1,
+    "mainImage": "../images/aothun1.webp",
+    "additionalImages": [
+        "../images/aothun2.webp",
+        "../images/aothun3.webp"
+    ]
+},
+{
+    "id": 46,
+    "name": "Quần jeans",
+    "brand": "Levi's",
+    "features": "Quần jeans nam form slim-fit, phong cách hiện đại.",
+    "currentPrice": 750000,
+    "discount": 10,
+    "originalPrice": 833000,
+    "rating": 4.8,
+    "soldInfo": "(200) | Đã bán 3k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Levi's",
+        "brandOrigin": "Mỹ",
+        "material": ["Denim"],
+        "model": "",
+        "size": "M, L, XL",
+        "madeIn": "Bangladesh",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 750000,
+    "quantity": 1,
+    "mainImage": "../images/jeans1.webp",
+    "additionalImages": [
+        "../images/jeans2.webp",
+        "../images/jeans3.webp"
+    ]
+},
+{
+    "id": 47,
+    "name": "Áo khoác da",
+    "brand": "Zara",
+    "features": "Áo khoác da cao cấp, thiết kế thời trang.",
+    "currentPrice": 2000000,
+    "discount": 15,
+    "originalPrice": 2350000,
+    "rating": 4.9,
+    "soldInfo": "(350) | Đã bán 500",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Zara",
+        "brandOrigin": "Tây Ban Nha",
+        "material": ["Da tổng hợp"],
+        "model": "",
+        "size": "L, XL",
+        "madeIn": "Trung Quốc",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 2000000,
+    "quantity": 1,
+    "mainImage": "../images/aokhoac1.webp",
+    "additionalImages": [
+        "../images/aokhoac2.webp",
+        "../images/aokhoac3.webp"
+    ]
+},
+{
+    "id": 48,
+    "name": "Giày thể thao",
+    "brand": "Nike",
+    "features": "Giày thể thao phong cách, phù hợp cho hoạt động thể chất.",
+    "currentPrice": 1500000,
+    "discount": 20,
+    "originalPrice": 1875000,
+    "rating": 4.6,
+    "soldInfo": "(1000) | Đã bán 10k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nike",
+        "brandOrigin": "Mỹ",
+        "material": ["Vải và cao su"],
+        "model": "",
+        "size": "42, 43, 44",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 1500000,
+    "quantity": 1,
+    "mainImage": "../images/giay1.webp",
+    "additionalImages": [
+        "../images/giay2.webp",
+        "../images/giay3.webp"
+    ]
+},
+{
+    "id": 49,
+    "name": "Áo khoác gió",
+    "brand": "Adidas",
+    "features": "Áo khoác gió chống nước, phù hợp cho các hoạt động ngoài trời.",
+    "currentPrice": 950000,
+    "discount": 20,
+    "originalPrice": 1187500,
+    "rating": 4.6,
+    "soldInfo": "(600) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Adidas",
+        "brandOrigin": "Đức",
+        "material": ["Polyester"],
+        "model": "",
+        "size": "S, M, L, XL",
+        "madeIn": "Trung Quốc",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 950000,
+    "quantity": 1,
+    "mainImage": "../images/aokhoacgio1.webp",
+    "additionalImages": [
+        "../images/aokhoacgio2.webp",
+        "../images/aokhoacgio3.webp"
+    ]
+},
+{
+    "id": 50,
+    "name": "Túi xách nữ",
+    "brand": "Charles & Keith",
+    "features": "Túi xách da cao cấp, phong cách sang trọng.",
+    "currentPrice": 1200000,
+    "discount": 25,
+    "originalPrice": 1600000,
+    "rating": 4.8,
+    "soldInfo": "(650) | Đã bán 2k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Charles & Keith",
+        "brandOrigin": "Singapore",
+        "material": ["Da tổng hợp"],
+        "model": "",
+        "size": "",
+        "madeIn": "Indonesia",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 1200000,
+    "quantity": 1,
+    "mainImage": "../images/tuixach1.webp",
+    "additionalImages": [
+        "../images/tuixach2.webp",
+        "../images/tuixach3.webp"
+    ]
+},
+{
+    "id": 51,
+    "name": "Mũ lưỡi trai",
+    "brand": "Adidas",
+    "features": "Mũ lưỡi trai thể thao, chất liệu thoáng mát.",
+    "currentPrice": 300000,
+    "discount": 15,
+    "originalPrice": 350000,
+    "rating": 4.6,
+    "soldInfo": "(400) | Đã bán 5k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Adidas",
+        "brandOrigin": "Đức",
+        "material": ["Vải"],
+        "model": "",
+        "size": "M, L",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 300000,
+    "quantity": 1,
+    "mainImage": "../images/mu1.webp",
+    "additionalImages": [
+        "../images/mu2.webp",
+        "../images/mu3.webp"
+    ]
+},
+{
+    "id": 52,
+    "name": "Áo sơ mi nam",
+    "brand": "H&M",
+    "features": "Áo sơ mi nam tay dài, chất liệu thoáng mát.",
+    "currentPrice": 450000,
+    "discount": 20,
+    "originalPrice": 562500,
+    "rating": 4.5,
+    "soldInfo": "(600) | Đã bán 4k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "H&M",
+        "brandOrigin": "Thụy Điển",
+        "material": ["Cotton"],
+        "model": "",
+        "size": "M, L, XL",
+        "madeIn": "Bangladesh",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 450000,
+    "quantity": 1,
+    "mainImage": "../images/aosomi1.webp",
+    "additionalImages": [
+        "../images/aosomi2.webp",
+        "../images/aosomi3.webp"
+    ]
+},
+{
+    "id": 53,
+    "name": "Giày sandal",
+    "brand": "Freeship",
+    "features": "Giày sandal thoải mái, phù hợp cho mùa hè.",
+    "currentPrice": 600000,
+    "discount": 15,
+    "originalPrice": 705000,
+    "rating": 4.4,
+    "soldInfo": "(300) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Freeship",
+        "brandOrigin": "Việt Nam",
+        "material": ["Vải tổng hợp"],
+        "model": "",
+        "size": "38, 39, 40",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 600000,
+    "quantity": 1,
+    "mainImage": "../images/giaysandal1.webp",
+    "additionalImages": [
+        "../images/giaysandal2.webp",
+        "../images/giaysandal3.webp"
+    ]
+},
+{
+    "id": 54,
+    "name": "Áo hoodie",
+    "brand": "Puma",
+    "features": "Áo hoodie nam, giữ ấm hiệu quả, phong cách thể thao.",
+    "currentPrice": 800000,
+    "discount": 10,
+    "originalPrice": 888000,
+    "rating": 4.6,
+    "soldInfo": "(150) | Đã bán 2k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Puma",
+        "brandOrigin": "Đức",
+        "material": ["Cotton và polyester"],
+        "model": "",
+        "size": "M, L, XL",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 800000,
+    "quantity": 1,
+    "mainImage": "../images/hoody1.webp",
+    "additionalImages": [
+        "../images/hoody2.webp",
+        "../images/hoody3.webp"
+    ]
+},
+{
+    "id": 55,
+    "name": "Quần short",
+    "brand": "Gap",
+    "features": "Quần short thoải mái, thích hợp cho mùa hè.",
+    "currentPrice": 400000,
+    "discount": 5,
+    "originalPrice": 420000,
+    "rating": 4.5,
+    "soldInfo": "(250) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Gap",
+        "brandOrigin": "Mỹ",
+        "material":["Cotton"],
+        "model": "",
+        "size": "S, M, L",
+        "madeIn": "Trung Quốc",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 400000,
+    "quantity": 1,
+    "mainImage": "../images/quanshort1.webp",
+    "additionalImages": [
+        "../images/quanshort2.webp",
+        "../images/quanshort3.webp"
+    ]
+},
+{
+    "id": 56,
+    "name": "Áo len",
+    "brand": "Mango",
+    "features": "Áo len ấm áp, phù hợp cho mùa đông.",
+    "currentPrice": 700000,
+    "discount": 20,
+    "originalPrice": 875000,
+    "rating": 4.8,
+    "soldInfo": "(180) | Đã bán 900",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Mango",
+        "brandOrigin": "Tây Ban Nha",
+        "material": ["Len"],
+        "model": "",
+        "size": "M, L, XL",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 700000,
+    "quantity": 1,
+    "mainImage": "../images/aolen1.webp",
+    "additionalImages": [
+        "../images/aolen2.webp",
+        "../images/aolen3.webp"
+    ]
+},
+{
+    "id": 57,
+    "name": "Đầm nữ",
+    "brand": "Forever 21",
+    "features": "Đầm nữ kiểu dáng thanh lịch, chất liệu mềm mại.",
+    "currentPrice": 600000,
+    "discount": 10,
+    "originalPrice": 666000,
+    "rating": 4.4,
+    "soldInfo": "(400) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Forever 21",
+        "brandOrigin": "Mỹ",
+        "material": ["Polyester"],
+        "model": "",
+        "size": "S, M, L",
+        "madeIn": "Trung Quốc",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 600000,
+    "quantity": 1,
+    "mainImage": "../images/damnu1.webp",
+    "additionalImages": [
+        "../images/damnu2.webp",
+        "../images/damnu3.webp"
+    ]
+},
+{
+    "id": 58,
+    "name": "Khăn quàng cổ",
+    "brand": "H&M",
+    "features": "Khăn quàng cổ dày dặn, giữ ấm tốt.",
+    "currentPrice": 250000,
+    "discount": 20,
+    "originalPrice": 312500,
+    "rating": 4.5,
+    "soldInfo": "(500) | Đã bán 2k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 1-2 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "H&M",
+        "brandOrigin": "Thụy Điển",
+        "material": ["Vải nỉ"],
+        "model": "",
+        "size": "One Size",
+        "madeIn": "Bangladesh",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 250000,
+    "quantity": 1,
+    "mainImage": "../images/khan1.webp",
+    "additionalImages": [
+        "../images/khan2.webp",
+        "../images/khan3.webp"
+    ]
+},
+{
+    "id": 59,
+    "name": "Quần thể thao",
+    "brand": "Adidas",
+    "features": "Quần thể thao thoải mái, phù hợp cho tập luyện.",
+    "currentPrice": 500000,
+    "discount": 15,
+    "originalPrice": 588000,
+    "rating": 4.6,
+    "soldInfo": "(300) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Adidas",
+        "brandOrigin": "Đức",
+        "material": ["Polyester"],
+        "model": "",
+        "size": "M, L, XL",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 500000,
+    "quantity": 1,
+    "mainImage": "../images/quanthao1.webp",
+    "additionalImages": [
+        "../images/quanthao2.webp",
+        "../images/quanthao3.webp"
+    ]
+},
+{
+    "id": 60,
+    "name": "Sách Học Tiếng Anh",
+    "brand": "Nhà Xuất Bản Trẻ",
+    "features": "Sách hướng dẫn học tiếng Anh hiệu quả.",
+    "currentPrice": 95000,
+    "discount": 20,
+    "originalPrice": 120000,
+    "rating": 4.7,
+    "soldInfo": "(1000) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM20",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Trẻ",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "15 x 21 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 95000,
+    "quantity": 1,
+    "mainImage": "../images/sachanh1.webp", 
+    "additionalImages": [
+        "../images/sachanh2.webp", 
+        "../images/sachanh3.webp"
+    ]
+},
+{
+    "id": 61,
+    "name": "Sách Lịch Sử Việt Nam",
+    "brand": "Nhà Xuất Bản Văn Hóa",
+    "features": "Tìm hiểu về lịch sử đất nước.",
+    "currentPrice": 120000,
+    "discount": 10,
+    "originalPrice": 135000,
+    "rating": 4.6,
+    "soldInfo": "(500) | Đã bán 600",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM15",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Văn Hóa",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "16 x 24 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 120000,
+    "quantity": 1,
+    "mainImage": "../images/sachsu1.webp",
+    "additionalImages": [
+        "../images/sachsu2.webp",
+        "../images/sachsu3.webp"
+    ]
+},
+{
+    "id": 62,
+    "name": "Sách Nấu Ăn",
+    "brand": "Nhà Xuất Bản Hương Giang",
+    "features": "Công thức nấu ăn đa dạng.",
+    "currentPrice": 80000,
+    "discount": 5,
+    "originalPrice": 84000,
+    "rating": 4.8,
+    "soldInfo": "(700) | Đã bán 900",
+    "shipping": {
+        "destination": "Cần Thơ",
+        "deliveryDate": "Giao hàng từ 2-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 200.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM10",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Hương Giang",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "20 x 25 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 80000,
+    "quantity": 1,
+    "mainImage": "../images/sachnauan1.webp",
+    "additionalImages": [
+        "../images/sachnauan2.webp",
+        "../images/sachnauan3.webp"
+    ]
+},
+{
+    "id": 63,
+    "name": "Sách Khoa Học Vui",
+    "brand": "Nhà Xuất Bản Kim Đồng",
+    "features": "Khám phá thế giới khoa học một cách thú vị.",
+    "currentPrice": 95000,
+    "discount": 15,
+    "originalPrice": 112000,
+    "rating": 4.7,
+    "soldInfo": "(300) | Đã bán 400",
+    "shipping": {
+        "destination": "Nha Trang",
+        "deliveryDate": "Giao hàng từ 3-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 250.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM5",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Kim Đồng",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "17 x 23 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 95000,
+    "quantity": 1,
+    "mainImage": "../images/sachkhoahoc1.webp",
+    "additionalImages": [
+        "../images/sachkhoahoc2.webp",
+        "../images/sachkhoahoc3.webp"
+    ]
+},
+{
+    "id": 64,
+    "name": "Sách Văn Học",
+    "brand": "Nhà Xuất Bản Hội Nhà Văn",
+    "features": "Tuyển tập các tác phẩm văn học nổi tiếng.",
+    "currentPrice": 110000,
+    "discount": 20,
+    "originalPrice": 137500,
+    "rating": 4.9,
+    "soldInfo": "(800) | Đã bán 1k",
+    "shipping": {
+        "destination": "Hải Phòng",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 350.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM25",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Hội Nhà Văn",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "15 x 21 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 110000,
+    "quantity": 1,
+    "mainImage": "../images/sachvan1.webp",
+    "additionalImages": [
+        "../images/sachvan2.webp",
+        "../images/sachvan3.webp"
+    ]
+},
+{
+    "id": 65,
+    "name": "Sách Du Lịch Việt Nam",
+    "brand": "Nhà Xuất Bản Trẻ",
+    "features": "Cẩm nang du lịch khắp mọi miền tổ quốc.",
+    "currentPrice": 95000,
+    "discount": 0,
+    "originalPrice": 95000,
+    "rating": 4.5,
+    "soldInfo": "(600) | Đã bán 800",
+    "shipping": {
+        "destination": "TP. Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Trẻ",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "15 x 21 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 95000,
+    "quantity": 1,
+    "mainImage": "../images/sachdulich1.webp",
+    "additionalImages": [
+        "../images/sachdulich2.webp",
+        "../images/sachdulich3.webp"
+    ]
+},
+{
+    "id": 66,
+    "name": "Sách Tâm Lý Học",
+    "brand": "Nhà Xuất Bản Lao Động",
+    "features": "Hiểu biết về tâm lý con người.",
+    "currentPrice": 130000,
+    "discount": 15,
+    "originalPrice": 153000,
+    "rating": 4.6,
+    "soldInfo": "(900) | Đã bán 1.2k",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM20",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Lao Động",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "14 x 20 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 130000,
+    "quantity": 1,
+    "mainImage": "../images/sachtamli1.webp",
+    "additionalImages": [
+        "../images/sachtamli2.webp",
+        "../images/sachtamli3.webp"
+    ]
+},
+{
+    "id": 67,
+    "name": "Sách Tự Lực Văn Đoàn",
+    "brand": "Nhà Xuất Bản Văn Hóa",
+    "features": "Tuyển tập tác phẩm của Tự Lực Văn Đoàn.",
+    "currentPrice": 90000,
+    "discount": 10,
+    "originalPrice": 100000,
+    "rating": 4.7,
+    "soldInfo": "(1000) | Đã bán 1.5k",
+    "shipping": {
+        "destination": "TP. Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 250.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM15",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Văn Hóa",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "15 x 21 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 90000,
+    "quantity": 1,
+    "mainImage": "../images/sachtuluc1.webp",
+    "additionalImages": [
+        "../images/sachtuluc2.webp",
+        "../images/sachtuluc3.webp"
+    ]
+},
+{
+    "id": 68,
+    "name": "Sách Trẻ Em",
+    "brand": "Nhà Xuất Bản Kim Đồng",
+    "features": "Sách truyện thiếu nhi hấp dẫn.",
+    "currentPrice": 70000,
+    "discount": 5,
+    "originalPrice": 74000,
+    "rating": 4.8,
+    "soldInfo": "(300) | Đã bán 500",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 200.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM10",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Kim Đồng",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "20 x 25 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 70000,
+    "quantity": 1,
+    "mainImage": "../images/sachtreem1.webp",
+    "additionalImages": [
+        "../images/sachtreem2.webp",
+        "../images/sachtreem3.webp"
+    ]
+},
+{
+    "id": 69,
+    "name": "Sách Nghệ Thuật",
+    "brand": "Nhà Xuất Bản Mỹ Thuật",
+    "features": "Khám phá thế giới nghệ thuật.",
+    "currentPrice": 150000,
+    "discount": 25,
+    "originalPrice": 200000,
+    "rating": 4.9,
+    "soldInfo": "(600) | Đã bán 900",
+    "shipping": {
+        "destination": "Hà Nội",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 350.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM30",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Mỹ Thuật",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "24 x 30 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 150000,
+    "quantity": 1,
+    "mainImage": "../images/sachnghethuat1.webp",
+    "additionalImages": [
+        "../images/sachnghethuat2.webp",
+        "../images/sachnghethuat3.webp"
+    ]
+},
+{
+    "id": 70,
+    "name": "Sách Kỹ Năng Sống",
+    "brand": "Nhà Xuất Bản Thanh Niên",
+    "features": "Giúp phát triển kỹ năng sống.",
+    "currentPrice": 120000,
+    "discount": 20,
+    "originalPrice": 150000,
+    "rating": 4.6,
+    "soldInfo": "(800) | Đã bán 1k",
+    "shipping": {
+        "destination": "Cần Thơ",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM15",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Thanh Niên",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "15 x 21 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 120000,
+    "quantity": 1,
+    "mainImage": "../images/sachkynang1.webp",
+    "additionalImages": [
+        "../images/sachkynang2.webp",
+        "../images/sachkynang3.webp"
+    ]
+},
+{
+    "id": 71,
+    "name": "Sách Kinh Tế",
+    "brand": "Nhà Xuất Bản Tài Chính",
+    "features": "Phân tích các vấn đề kinh tế hiện đại.",
+    "currentPrice": 110000,
+    "discount": 15,
+    "originalPrice": 129000,
+    "rating": 4.6,
+    "soldInfo": "(500) | Đã bán 600",
+    "shipping": {
+        "destination": "TP. Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 1-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 250.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM10",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Tài Chính",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "14 x 20 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 110000,
+    "quantity": 1,
+    "mainImage": "../images/sachkinhte1.webp",
+    "additionalImages": [
+        "../images/sachkinhte2.webp",
+        "../images/sachkinhte3.webp"
+    ]
+},
+{
+    "id": 72,
+    "name": "Sách Thiền",
+    "brand": "Nhà Xuất Bản Thế Giới",
+    "features": "Hướng dẫn thiền và tĩnh tâm.",
+    "currentPrice": 95000,
+    "discount": 0,
+    "originalPrice": 95000,
+    "rating": 4.8,
+    "soldInfo": "(200) | Đã bán 300",
+    "shipping": {
+        "destination": "Nha Trang",
+        "deliveryDate": "Giao hàng từ 2-4 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 200.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Thế Giới",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "15 x 21 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 95000,
+    "quantity": 1,
+    "mainImage": "../images/sachthien1.webp",
+    "additionalImages": [
+        "../images/sachthien2.webp",
+        "../images/sachthien3.webp"
+    ]
+},
+{
+    "id": 73,
+    "name": "Sách Công Nghệ Thông Tin",
+    "brand": "Nhà Xuất Bản Khoa Học",
+    "features": "Cập nhật kiến thức công nghệ mới.",
+    "currentPrice": 140000,
+    "discount": 20,
+    "originalPrice": 175000,
+    "rating": 4.7,
+    "soldInfo": "(400) | Đã bán 500",
+    "shipping": {
+        "destination": "Hải Phòng",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM25",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Khoa Học",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "16 x 24 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 140000,
+    "quantity": 1,
+    "mainImage": "../images/sachcntt1.webp",
+    "additionalImages": [
+        "../images/sachcntt2.webp",
+        "../images/sachcntt3.webp"
+    ]
+},
+{
+    "id": 74,
+    "name": "Sách Địa Lý",
+    "brand": "Nhà Xuất Bản Đại Học",
+    "features": "Giáo trình địa lý cho sinh viên.",
+    "currentPrice": 95000,
+    "discount": 15,
+    "originalPrice": 112000,
+    "rating": 4.6,
+    "soldInfo": "(200) | Đã bán 300",
+    "shipping": {
+        "destination": "TP. Hồ Chí Minh",
+        "deliveryDate": "Giao hàng từ 2-3 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 250.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "GIAM5",
+            "discountLink": ""
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Nhà Xuất Bản Đại Học",
+        "brandOrigin": "",
+        "material": [],
+        "model": "",
+        "size": "16 x 24 cm",
+        "madeIn": "Việt Nam",
+        "weight": "",
+        "guarantee": ""
+    },
+    "totalAmount": 95000,
+    "quantity": 1,
+    "mainImage": "../images/sachdia1.webp",
+    "additionalImages": [
+        "../images/sachdia2.webp",
+        "../images/sachdia3.webp"
+    ]
+},
+{
+    "id": 75,
+    "name": "Vợt cầu lông",
+    "brand": "Yonex",
+    "features": "Vợt cầu lông chuyên nghiệp với khả năng kiểm soát tốt và độ bền cao.",
+    "currentPrice": 800000,
+    "discount": 30,
+    "originalPrice": 1150000,
+    "rating": 4.8,
+    "soldInfo": "(300) | Đã bán 500",
+    "shipping": {
+        "destination": "Đà Nẵng",
+        "deliveryDate": "Giao hàng từ 3-5 ngày",
+        "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.500.000₫",
+        "freeshipInfo": "Miễn phí giao hàng",
+        "offers": {
+            "offerCode": "YONEX20",
+            "discountLink": "Link giảm giá"
+        }
+    },
+    "details": {
+        "capacity": "",
+        "brand": "Yonex",
+        "brandOrigin": "Nhật Bản",
+        "material": ["Khung: Carbon", "Cán: Gỗ"],
+        "model": "Astrox 99",
+        "size": "68.5 cm",
+        "madeIn": "Nhật Bản",
+        "weight": "0.85 kg",
+        "guarantee": "6 tháng"
+    },
+    "totalAmount": 800000,
+    "quantity": 1,
+    "mainImage": "../images/votcaulong1.webp", 
+    "additionalImages": [
+        "../images/votcaulong2.webp", 
+        "../images/votcaulong3.webp"
+    ]
+},
+{
+        "id": 76,
+        "name": "Vợt tennis",
+        "brand": "Wilson",
+        "features": "Vợt tennis với khả năng kiểm soát và độ chính xác cao.",
+        "currentPrice": 3200000,
+        "discount": 20,
+        "originalPrice": 4000000,
+        "rating": 4.6,
+        "soldInfo": "(450) | Đã bán 800",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "WILSON15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Wilson",
+            "brandOrigin": "Mỹ",
+            "material": ["Khung: Carbon", "Cán: Gỗ"],
+            "model": "Pro Staff RF97",
+            "size": "70 cm",
+            "madeIn": "Mỹ",
+            "weight": "0.9 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 3200000,
+        "quantity": 1,
+        "mainImage": "../images/vottennis1.webp",
+        "additionalImages": [
+            "../images/vottennis2.webp",
+            "../images/vottennis3.webp"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Bóng rổ",
+        "brand": "Spalding",
+        "features": "Bóng rổ chuyên dụng với độ bám tốt và độ bền cao.",
+        "currentPrice": 700000,
+        "discount": 15,
+        "originalPrice": 820000,
+        "rating": 4.9,
+        "soldInfo": "(600) | Đã bán 1200",
+        "shipping": {
+            "destination": "TP. Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "SPALDING10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Spalding",
+            "brandOrigin": "Mỹ",
+            "material": ["Da tổng hợp"],
+            "model": "NBA Official Game Ball",
+            "size": "",
+            "madeIn": "Thái Lan",
+            "weight": "0.6 kg",
+            "guarantee": "6 tháng"
+        },
+        "totalAmount": 700000,
+        "quantity": 1,
+        "mainImage": "../images/bongro1.webp",
+        "additionalImages": [
+            "../images/bongro2.webp",
+            "../images/bongro3.webp"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Bóng đá",
+        "brand": "Adidas",
+        "features": "Bóng đá với chất liệu cao cấp, độ bền và độ nảy tốt.",
+        "currentPrice": 550000,
+        "discount": 10,
+        "originalPrice": 610000,
+        "rating": 4.7,
+        "soldInfo": "(200) | Đã bán 400",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 3-5 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "ADIDAS5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Adidas",
+            "brandOrigin": "Đức",
+            "material": ["Da tổng hợp"],
+            "model": "Telstar 18",
+            "size": "",
+            "madeIn": "Pakistan",
+            "weight": "0.45 kg",
+            "guarantee": "3 tháng"
+        },
+        "totalAmount": 550000,
+        "quantity": 1,
+        "mainImage": "../images/bongda1.webp",
+        "additionalImages": [
+            "../images/bongda2.webp",
+            "../images/bongda3.webp"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Ván trượt",
+        "brand": "Element",
+        "features": "Ván trượt chất lượng cao, độ bền tốt và thiết kế phong cách.",
+        "currentPrice": 1500000,
+        "discount": 18,
+        "originalPrice": 1830000,
+        "rating": 4.8,
+        "soldInfo": "(100) | Đã bán 300",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "ELEMENT10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Element",
+            "brandOrigin": "Mỹ",
+            "material": ["Gỗ phong"],
+            "model": "Section Deck",
+            "size": "80 x 20 cm",
+            "madeIn": "Mỹ",
+            "weight": "1.2 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 1500000,
+        "quantity": 1,
+        "mainImage": "../images/vantruot1.webp",
+        "additionalImages": [
+            "../images/vantruot2.webp",
+            "../images/vantruot3.webp"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Vợt bóng bàn",
+        "brand": "Butterfly",
+        "features": "Vợt bóng bàn cao cấp, độ bám bóng và độ chính xác tốt.",
+        "currentPrice": 600000,
+        "discount": 20,
+        "originalPrice": 750000,
+        "rating": 4.5,
+        "soldInfo": "(350) | Đã bán 500",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "BUTTERFLY15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Butterfly",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Gỗ", "Cao su"],
+            "model": "Timo Boll ALC",
+            "size": "15 x 15 cm",
+            "madeIn": "Nhật Bản",
+            "weight": "0.3 kg",
+            "guarantee": "6 tháng"
+        },
+        "totalAmount": 600000,
+        "quantity": 1,
+        "mainImage": "../images/votbongban1.webp",
+        "additionalImages": [
+            "../images/votbongban2.webp",
+            "../images/votbongban3.webp"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Bóng chuyền",
+        "brand": "Mikasa",
+        "features": "Bóng chuyền chuyên nghiệp với độ nảy và độ bền cao.",
+        "currentPrice": 850000,
+        "discount": 15,
+        "originalPrice": 1000000,
+        "rating": 4.7,
+        "soldInfo": "(400) | Đã bán 600",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 3-5 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "MIKASA5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Mikasa",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Da tổng hợp"],
+            "model": "V200W",
+            "size": "",
+            "madeIn": "Thái Lan",
+            "weight": "0.35 kg",
+            "guarantee": "3 tháng"
+        },
+        "totalAmount": 850000,
+        "quantity": 1,
+        "mainImage": "../images/bongchuyen1.webp",
+        "additionalImages": [
+            "../images/bongchuyen2.webp",
+            "../images/bongchuyen3.webp"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Quả tạ đơn",
+        "brand": "Bowflex",
+        "features": "Quả tạ đơn điều chỉnh trọng lượng dễ dàng, phù hợp tập luyện tại nhà.",
+        "currentPrice": 2500000,
+        "discount": 20,
+        "originalPrice": 3125000,
+        "rating": 4.8,
+        "soldInfo": "(600) | Đã bán 1000",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "BOWFLEX15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Bowflex",
+            "brandOrigin": "Mỹ",
+            "material": ["Thép", "Nhựa"],
+            "model": "SelectTech 552",
+            "size": "40 cm",
+            "madeIn": "Mỹ",
+            "weight": "24 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 2500000,
+        "quantity": 1,
+        "mainImage": "../images/ta1.webp",
+        "additionalImages": [
+            "../images/ta2.webp",
+            "../images/ta3.webp"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Bàn bóng bàn",
+        "brand": "Stiga",
+        "features": "Bàn bóng bàn chuyên nghiệp với khả năng gấp gọn tiện lợi.",
+        "currentPrice": 7000000,
+        "discount": 10,
+        "originalPrice": 7800000,
+        "rating": 4.9,
+        "soldInfo": "(150) | Đã bán 300",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 3-5 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 5.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "STIGA10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Stiga",
+            "brandOrigin": "Thụy Điển",
+            "material": ["Gỗ công nghiệp", "Thép"],
+            "model": "Expert Roller",
+            "size": "274 x 152.5 x 76 cm",
+            "madeIn": "Thụy Điển",
+            "weight": "65 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 7000000,
+        "quantity": 1,
+        "mainImage": "../images/banbongban1.webp",
+        "additionalImages": [
+            "../images/banbongban2.webp",
+            "../images/banbongban3.webp"
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Ván lướt sóng",
+        "brand": "SurfTech",
+        "features": "Ván lướt sóng nhẹ, bền, dễ dàng di chuyển trên mặt nước.",
+        "currentPrice": 5000000,
+        "discount": 8,
+        "originalPrice": 5450000,
+        "rating": 4.8,
+        "soldInfo": "(150) | Đã bán 200",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 4-6 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 5.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "SURFTECH8",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "SurfTech",
+            "brandOrigin": "Mỹ",
+            "material": ["EPS Foam", "Epoxy"],
+            "model": "SoftTop",
+            "size": "2m",
+            "madeIn": "Mỹ",
+            "weight": "3.5 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 5000000,
+        "quantity": 1,
+        "mainImage": "../images/vanluotsong1.webp",
+        "additionalImages": [
+            "../images/vanluotsong2.webp",
+            "../images/vanluotsong3.webp"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Xe đạp địa hình",
+        "brand": "Trek",
+        "features": "Xe đạp địa hình với hệ thống giảm xóc, phù hợp với địa hình gồ ghề.",
+        "currentPrice": 14000000,
+        "discount": 10,
+        "originalPrice": 15600000,
+        "rating": 4.8,
+        "soldInfo": "(200) | Đã bán 150",
+        "shipping": {
+            "destination": "TP. Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 5-7 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 10.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "TREK10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Trek",
+            "brandOrigin": "Mỹ",
+            "material": ["Khung: Nhôm", "Phanh: Đĩa thủy lực"],
+            "model": "Marlin 7",
+            "size": "",
+            "madeIn": "Mỹ",
+            "weight": "13.5 kg",
+            "guarantee": "24 tháng"
+        },
+        "totalAmount": 14000000,
+        "quantity": 1,
+        "mainImage": "../images/xedap1.webp",
+        "additionalImages": [
+            "../images/xedap2.webp",
+            "../images/xedap3.webp"
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Thảm yoga",
+        "brand": "Liforme",
+        "features": "Thảm yoga chống trượt, êm ái và thân thiện với môi trường.",
+        "currentPrice": 2200000,
+        "discount": 12,
+        "originalPrice": 2500000,
+        "rating": 4.9,
+        "soldInfo": "(700) | Đã bán 1200",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "LIFORME5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Liforme",
+            "brandOrigin": "Anh",
+            "material": ["Cao su tự nhiên", "PU"],
+            "model": "Liforme Original",
+            "size": "185 x 68 cm",
+            "madeIn": "Anh",
+            "weight": "2.5 kg",
+            "guarantee": "6 tháng"
+        },
+        "totalAmount": 2200000,
+        "quantity": 1,
+        "mainImage": "../images/thamyoga1.webp",
+        "additionalImages": [
+            "../images/thamyoga2.webp",
+            "../images/thamyoga3.webp"
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Bộ dây kháng lực",
+        "brand": "TRX",
+        "features": "Bộ dây kháng lực dành cho tập luyện toàn thân, dễ mang theo.",
+        "currentPrice": 1800000,
+        "discount": 20,
+        "originalPrice": 2250000,
+        "rating": 4.8,
+        "soldInfo": "(400) | Đã bán 900",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "TRX10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "TRX",
+            "brandOrigin": "Mỹ",
+            "material": ["Nylon", "Thép"],
+            "model": "TRX GO",
+            "size": "150 x 4 cm",
+            "madeIn": "Mỹ",
+            "weight": "0.8 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 1800000,
+        "quantity": 1,
+        "mainImage": "../images/daykhangluc1.webp",
+        "additionalImages": [
+            "../images/daykhangluc2.webp",
+            "../images/daykhangluc3.webp"
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Bóng bầu dục",
+        "brand": "Gilbert",
+        "features": "Bóng bầu dục chất lượng cao, độ bám tốt và độ bền cao.",
+        "currentPrice": 600000,
+        "discount": 10,
+        "originalPrice": 670000,
+        "rating": 4.5,
+        "soldInfo": "(120) | Đã bán 300",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "GILBERT5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Gilbert",
+            "brandOrigin": "Anh",
+            "material": ["Da tổng hợp"],
+            "model": "G-TR4000",
+            "size": "",
+            "madeIn": "Anh",
+            "weight": "0.45 kg",
+            "guarantee": "6 tháng"
+        },
+        "totalAmount": 600000,
+        "quantity": 1,
+        "mainImage": "../images/bongbauduc1.webp",
+        "additionalImages": [
+            "../images/bongbauduc2.webp",
+            "../images/bongbauduc3.webp"
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Bóng bowling",
+        "brand": "Brunswick",
+        "features": "Bóng bowling chuyên nghiệp với thiết kế aerodynamic, độ bền cao.",
+        "currentPrice": 1200000,
+        "discount": 5,
+        "originalPrice": 1260000,
+        "rating": 4.6,
+        "soldInfo": "(90) | Đã bán 150",
+        "shipping": {
+            "destination": "TP. Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "BRUNSWICK5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Brunswick",
+            "brandOrigin": "Mỹ",
+            "material": ["Nhựa", "Hợp chất"],
+            "model": "Brunswick TZone",
+            "size": "",
+            "madeIn": "Mỹ",
+            "weight": "4.5 kg",
+            "guarantee": "6 tháng"
+        },
+        "totalAmount": 1200000,
+        "quantity": 1,
+        "mainImage": "../images/bongbowling1.webp",
+        "additionalImages": [
+            "../images/bongbowling2.webp",
+            "../images/bongbowling3.webp"
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Máy chiếu mini",
+        "brand": "Anker",
+        "features": "Máy chiếu mini độ phân giải cao, hỗ trợ kết nối không dây.",
+        "currentPrice": 3500000,
+        "discount": 15,
+        "originalPrice": 4100000,
+        "rating": 4.7,
+        "soldInfo": "(1200) | Đã bán 1.5k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "GIAODIEN10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Anker",
+            "brandOrigin": "Mỹ",
+            "material": ["Vỏ: Nhựa ABS", "Ống kính: Thủy tinh cao cấp"],
+            "model": "Nebula Capsule",
+            "size": "6.8 x 6.8 x 12 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,420 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 3500000,
+        "quantity": 1,
+        "mainImage": "../images/maychieu1.webp",
+        "additionalImages": [
+            "../images/maychieu2.webp",
+            "../images/maychieu3.webp"
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Tai nghe không dây",
+        "brand": "Sony",
+        "features": "Tai nghe chống ồn, kết nối Bluetooth, thời lượng pin lâu.",
+        "currentPrice": 2500000,
+        "discount": 25,
+        "originalPrice": 3300000,
+        "rating": 4.6,
+        "soldInfo": "(1800) | Đã bán 3k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "SONY25",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Sony",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Vỏ: Nhựa ABS", "Đệm tai: Memory foam"],
+            "model": "WH-1000XM4",
+            "size": "16 x 12 x 7 cm",
+            "madeIn": "Malaysia",
+            "weight": "0,255 kg",
+            "guarantee": "24 tháng"
+        },
+        "totalAmount": 2500000,
+        "quantity": 1,
+        "mainImage": "../images/taikhongday1.webp",
+        "additionalImages": ["../images/taikhongday2.webp", "../images/taikhongday3.webp"]
+    },
+    {
+        "id": 92,
+        "name": "Loa Bluetooth mini",
+        "brand": "JBL",
+        "features": "Loa Bluetooth nhỏ gọn, âm thanh sống động.",
+        "currentPrice": 990000,
+        "discount": 10,
+        "originalPrice": 1100000,
+        "rating": 4.5,
+        "soldInfo": "(2500) | Đã bán 4k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-2 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "JBL10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "JBL",
+            "brandOrigin": "Mỹ",
+            "material": ["Vỏ: Cao su chống nước", "Lưới bảo vệ: Kim loại"],
+            "model": "GO 3",
+            "size": "8.8 x 7.5 x 4 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,209 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 990000,
+        "quantity": 1,
+        "mainImage": "../images/loamini1.webp",
+        "additionalImages": ["../images/loamini2.webp", "../images/loamini3.webp"]
+    },
+    {
+        "id": 93,
+        "name": "Ổ cứng di động",
+        "brand": "WD",
+        "features": "Ổ cứng dung lượng cao, tốc độ truyền tải nhanh.",
+        "currentPrice": 1800000,
+        "discount": 15,
+        "originalPrice": 2100000,
+        "rating": 4.8,
+        "soldInfo": "(3000) | Đã bán 5k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "WD15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "WD",
+            "brandOrigin": "Mỹ",
+            "material": ["Vỏ: Kim loại", "Nội bộ: Hỗ trợ chống sốc"],
+            "model": "My Passport",
+            "size": "10.7 x 7.5 x 1.1 cm",
+            "madeIn": "Thái Lan",
+            "weight": "0,200 kg",
+            "guarantee": "24 tháng"
+        },
+        "totalAmount": 1800000,
+        "quantity": 1,
+        "mainImage": "../images/ocung1.webp",
+        "additionalImages": ["../images/ocung2.webp", "../images/ocung3.webp"]
+    },
+    {
+        "id": 94,
+        "name": "Máy ảnh kỹ thuật số",
+        "brand": "Canon",
+        "features": "Máy ảnh du lịch nhỏ gọn, độ phân giải cao.",
+        "currentPrice": 7200000,
+        "discount": 20,
+        "originalPrice": 9000000,
+        "rating": 4.7,
+        "soldInfo": "(1200) | Đã bán 1k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "CANON20",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Canon",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Vỏ: Kim loại nhôm", "Ống kính: Thủy tinh cao cấp"],
+            "model": "PowerShot G7 X",
+            "size": "10.5 x 6 x 4 cm",
+            "madeIn": "Nhật Bản",
+            "weight": "0,304 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 7200000,
+        "quantity": 1,
+        "mainImage": "../images/mayanh1.webp",
+        "additionalImages": ["../images/mayanh2.webp", "../images/mayanh3.webp"]
+    },
+    {
+        "id": 95,
+        "name": "Bàn phím cơ",
+        "brand": "Logitech",
+        "features": "Bàn phím cơ với đèn nền RGB, cảm giác gõ thoải mái.",
+        "currentPrice": 1600000,
+        "discount": 30,
+        "originalPrice": 2300000,
+        "rating": 4.9,
+        "soldInfo": "(500) | Đã bán 800",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "LOGITECH30",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Logitech",
+            "brandOrigin": "Thụy Sĩ",
+            "material": ["Vỏ: Nhựa cứng", "Phím: Switch cơ học"],
+            "model": "G413 TKL",
+            "size": "36.5 x 13 x 3.6 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,875 kg",
+            "guarantee": "24 tháng"
+        },
+        "totalAmount": 1600000,
+        "quantity": 1,
+        "mainImage": "../images/banphim1.webp",
+        "additionalImages": ["../images/banphim2.webp", "../images/banphim3.webp"]
+    },
+    {
+        "id": 96,
+        "name": "Chuột không dây",
+        "brand": "Logitech",
+        "features": "Chuột không dây công nghệ laser, pin lâu.",
+        "currentPrice": 550000,
+        "discount": 20,
+        "originalPrice": 690000,
+        "rating": 4.8,
+        "soldInfo": "(3200) | Đã bán 4.5k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "LOGI20",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Logitech",
+            "brandOrigin": "Thụy Sĩ",
+            "material": ["Vỏ: Nhựa ABS", "Nút: Cao su mềm"],
+            "model": "M330",
+            "size": "10.5 x 6.8 x 3.8 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,091 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 550000,
+        "quantity": 1,
+        "mainImage": "../images/chuotkhongday11.webp",
+        "additionalImages": ["../images/chuotkhongday12.webp", "../images/chuotkhongday13.webp"]
+    },
+    {
+        "id": 97,
+        "name": "Micro thu âm USB",
+        "brand": "FIFINE",
+        "features": "Micro thu âm USB chất lượng cao, phù hợp cho livestream và ghi âm.",
+        "currentPrice": 950000,
+        "discount": 10,
+        "originalPrice": 1050000,
+        "rating": 4.6,
+        "soldInfo": "(1200) | Đã bán 2k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "FIFINE10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "FIFINE",
+            "brandOrigin": "Trung Quốc",
+            "material": ["Vỏ: Nhựa cao cấp", "Màng loa: Kim loại"],
+            "model": "K669B",
+            "size": "15 x 10 x 10 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0.45 kg",
+            "guarantee": "24 tháng"
+        },
+        "totalAmount": 950000,
+        "quantity": 1,
+        "mainImage": "../images/micusb1.webp",
+        "additionalImages": ["../images/micusb2.webp", "../images/micusb3.webp"]
+    },
+    {
+        "id": 98,
+        "name": "Đồng hồ thông minh",
+        "brand": "Garmin",
+        "features": "Đồng hồ GPS thông minh, theo dõi sức khỏe.",
+        "currentPrice": 6000000,
+        "discount": 20,
+        "originalPrice": 7500000,
+        "rating": 4.9,
+        "soldInfo": "(1100) | Đã bán 1.5k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "GARMIN20",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Garmin",
+            "brandOrigin": "Mỹ",
+            "material": ["Dây: Silicone", "Mặt kính: Gorilla Glass"],
+            "model": "Forerunner 245",
+            "size": "4.2 x 4.2 x 1.2 cm",
+            "madeIn": "Đài Loan",
+            "weight": "0,036 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 6000000,
+        "quantity": 1,
+        "mainImage": "../images/dongho1.webp",
+        "additionalImages": ["../images/dongho2.webp", "../images/dongho3.webp"]
+    },
+    {
+        "id": 99,
+        "name": "Dây sạc Lightning",
+        "brand": "Apple",
+        "features": "Dây sạc Lightning chính hãng, tương thích với các thiết bị Apple.",
+        "currentPrice": 400000,
+        "discount": 5,
+        "originalPrice": 420000,
+        "rating": 4.9,
+        "soldInfo": "(3000) | Đã bán 5k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "APPLE5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Apple",
+            "brandOrigin": "Mỹ",
+            "material": ["Dây: Nylon bện", "Đầu kết nối: Nhựa"],
+            "model": "MLL82AM/A",
+            "size": "100 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0.05 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 400000,
+        "quantity": 1,
+        "mainImage": "../images/daysac1.webp",
+        "additionalImages": ["../images/daysac2.webp", "../images/daysac3.webp"]
+    },
+    {
+        "id": 100,
+        "name": "Sạc dự phòng",
+        "brand": "Anker",
+        "features": "Pin sạc dự phòng dung lượng cao, hỗ trợ sạc nhanh.",
+        "currentPrice": 700000,
+        "discount": 10,
+        "originalPrice": 800000,
+        "rating": 4.5,
+        "soldInfo": "(2700) | Đã bán 4k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-2 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "ANKER10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Anker",
+            "brandOrigin": "Mỹ",
+            "material": ["Vỏ: Nhựa chống cháy", "Pin: Li-ion"],
+            "model": "PowerCore 20000",
+            "size": "15.8 x 7.4 x 1.9 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,350 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 700000,
+        "quantity": 1,
+        "mainImage": "../images/sac1.webp",
+        "additionalImages": ["../images/sac2.webp", "../images/sac3.webp"]
+    },
+    {
+        "id": 101,
+        "name": "Bộ phát Wi-Fi di động",
+        "brand": "TP-Link",
+        "features": "Bộ phát Wi-Fi 4G LTE, tiện lợi cho du lịch.",
+        "currentPrice": 1300000,
+        "discount": 15,
+        "originalPrice": 1500000,
+        "rating": 4.4,
+        "soldInfo": "(1900) | Đã bán 3k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "TPLINK15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "TP-Link",
+            "brandOrigin": "Trung Quốc",
+            "material": ["Vỏ: Nhựa ABS"],
+            "model": "M7350",
+            "size": "10 x 5.8 x 1.6 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0,090 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 1300000,
+        "quantity": 1,
+        "mainImage": "../images/phatwifi1.webp",
+        "additionalImages": ["../images/phatwifi2.webp", "../images/phatwifi3.webp"]
+    },
+    {
+        "id": 102,
+        "name": "Máy in phun màu",
+        "brand": "Epson",
+        "features": "Máy in phun màu, tốc độ in nhanh, tiết kiệm mực.",
+        "currentPrice": 3200000,
+        "discount": 18,
+        "originalPrice": 3900000,
+        "rating": 4.5,
+        "soldInfo": "(800) | Đã bán 1.2k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 2.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "EPSON18",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "4000 trang",
+            "brand": "Epson",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Vỏ: Nhựa cứng chống va đập"],
+            "model": "L3110",
+            "size": "37.5 x 34.7 x 17.9 cm",
+            "madeIn": "Indonesia",
+            "weight": "3.9 kg",
+            "guarantee": "24 tháng"
+        },
+        "totalAmount": 3200000,
+        "quantity": 1,
+        "mainImage": "../images/mayin1.webp",
+        "additionalImages": ["../images/mayin2.webp", "../images/mayin3.webp"]
+    },
+    {
+        "id": 103,
+        "name": "Máy chơi game cầm tay",
+        "brand": "Nintendo",
+        "features": "Máy chơi game cầm tay với màn hình HD và bộ điều khiển tháo rời.",
+        "currentPrice": 6500000,
+        "discount": 10,
+        "originalPrice": 7200000,
+        "rating": 4.8,
+        "soldInfo": "(4200) | Đã bán 5k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 2-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 5.000.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "NIN10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Nintendo",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Vỏ: Nhựa cứng cao cấp"],
+            "model": "Switch V2",
+            "size": "23.9 x 10.2 x 1.4 cm",
+            "madeIn": "Trung Quốc",
+            "weight": "0.4 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 6500000,
+        "quantity": 1,
+        "mainImage": "../images/maygame1.webp",
+        "additionalImages": ["../images/maygame2.webp", "../images/maygame3.webp"]
+    },
+    {
+        "id": 104,
+        "name": "Máy scan di động",
+        "brand": "Fujitsu",
+        "features": "Máy scan di động, quét tài liệu chất lượng cao, nhỏ gọn.",
+        "currentPrice": 3200000,
+        "discount": 10,
+        "originalPrice": 3600000,
+        "rating": 4.7,
+        "soldInfo": "(450) | Đã bán 600",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 1.500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "FUJITSU10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Fujitsu",
+            "brandOrigin": "Nhật Bản",
+            "material": ["Vỏ: Kim loại và nhựa"],
+            "model": "ScanSnap S1300i",
+            "size": "28.5 x 9 x 7.5 cm",
+            "madeIn": "Nhật Bản",
+            "weight": "1.4 kg",
+            "guarantee": "12 tháng"
+        },
+        "totalAmount": 3200000,
+        "quantity": 1,
+        "mainImage": "../images/mayscan1.webp",
+        "additionalImages": ["../images/mayscan2.webp", "../images/mayscan3.webp"]
+    },
+    {
+        "id": 105,
+        "name": "Hạt điều rang muối",
+        "brand": "Vinanuts",
+        "features": "Hạt điều rang muối tự nhiên, giòn ngon, bổ dưỡng.",
+        "currentPrice": 89000,
+        "discount": 15,
+        "originalPrice": 105000,
+        "rating": 4.8,
+        "soldInfo": "(3000) | Đã bán 5k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "DEAL30",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Vinanuts",
+            "brandOrigin": "Việt Nam",
+            "material": ["Hạt điều tự nhiên", "Muối biển"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.5 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 89000,
+        "quantity": 1,
+        "mainImage": "../images/hatdieu1.webp", 
+        "additionalImages": [
+            "../images/hatdieu2.webp", 
+            "../images/hatdieu3.webp"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Mứt xoài sấy dẻo",
+        "brand": "Vinfruits",
+        "features": "Mứt xoài sấy dẻo tự nhiên, không chất bảo quản.",
+        "currentPrice": 65000,
+        "discount": 10,
+        "originalPrice": 72000,
+        "rating": 4.7,
+        "soldInfo": "(1800) | Đã bán 1.5k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 400.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "SAVE10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Vinfruits",
+            "brandOrigin": "Việt Nam",
+            "material": ["Xoài sấy dẻo tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.25 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 65000,
+        "quantity": 1,
+        "mainImage": "../images/mutxoai1.webp", 
+        "additionalImages": ["../images/mutxoai2.webp", "../images/mutxoai3.webp"]
+    },
+    {
+        "id": 107,
+        "name": "Nho khô Úc",
+        "brand": "OZ Ripe",
+        "features": "Nho khô nhập khẩu từ Úc, ngon ngọt tự nhiên.",
+        "currentPrice": 89000,
+        "discount": 20,
+        "originalPrice": 112000,
+        "rating": 4.6,
+        "soldInfo": "(2500) | Đã bán 2k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 450.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "RAISIN20",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "OZ Ripe",
+            "brandOrigin": "Úc",
+            "material": ["Nho khô tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Úc",
+            "weight": "0.5 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 89000,
+        "quantity": 1,
+        "mainImage": "../images/nhouc1.webp",
+        "additionalImages": ["../images/nhouc2.webp", "../images/nhouc3.webp"]
+    },
+    {
+        "id": 108,
+        "name": "Hạt dẻ cười",
+        "brand": "Happy Nuts",
+        "features": "Hạt dẻ cười nhập khẩu, hương vị tự nhiên.",
+        "currentPrice": 120000,
+        "discount": 15,
+        "originalPrice": 140000,
+        "rating": 4.8,
+        "soldInfo": "(2200) | Đã bán 3k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 3-5 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 500.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "PISTA15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Happy Nuts",
+            "brandOrigin": "Mỹ",
+            "material": ["Hạt dẻ cười tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Mỹ",
+            "weight": "0.25 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 120000,
+        "quantity": 1,
+        "mainImage": "../images/hatde1.webp", 
+        "additionalImages": ["../images/hatde2.webp", "../images/hatde3.webp"]
+    },
+    {
+        "id": 109,
+        "name": "Mơ khô sấy dẻo",
+        "brand": "Dalat Fruit",
+        "features": "Mơ sấy dẻo tự nhiên, không chất bảo quản.",
+        "currentPrice": 72000,
+        "discount": 10,
+        "originalPrice": 80000,
+        "rating": 4.7,
+        "soldInfo": "(1300) | Đã bán 1k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-2 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 400.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "APR10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Dalat Fruit",
+            "brandOrigin": "Việt Nam",
+            "material": ["Mơ khô tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.25 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 72000,
+        "quantity": 1,
+        "mainImage": "../images/mokho1.webp", 
+        "additionalImages": ["../images/mokho2.webp", "../images/mokho3.webp"]
+    },
+    {
+        "id": 110,
+        "name": "Hạnh nhân rang muối",
+        "brand": "Nutty Almond",
+        "features": "Hạnh nhân rang muối giòn tan, bổ dưỡng.",
+        "currentPrice": 150000,
+        "discount": 20,
+        "originalPrice": 187000,
+        "rating": 4.9,
+        "soldInfo": "(5000) | Đã bán 6k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 450.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "ALMOND20",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Nutty Almond",
+            "brandOrigin": "Mỹ",
+            "material": ["Hạnh nhân tự nhiên", "Muối"],
+            "model": "",
+            "size": "",
+            "madeIn": "Mỹ",
+            "weight": "0.5 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 150000,
+        "quantity": 1,
+        "mainImage": "../images/hanhnhan1.webp", 
+        "additionalImages": ["../images/hanhnhan2.webp", "../images/hanhnhan3.webp"]
+    },
+    {
+        "id": 111,
+        "name": "Táo sấy dẻo",
+        "brand": "Fruitland",
+        "features": "Táo sấy dẻo tự nhiên, không phẩm màu.",
+        "currentPrice": 65000,
+        "discount": 5,
+        "originalPrice": 68000,
+        "rating": 4.6,
+        "soldInfo": "(1100) | Đã bán 900",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 3-5 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "APPLE5",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Fruitland",
+            "brandOrigin": "Việt Nam",
+            "material": ["Táo sấy dẻo tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.2 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 65000,
+        "quantity": 1,
+        "mainImage": "../images/taosay1.webp", 
+        "additionalImages": ["../images/taosay2.webp", "../images/taosay3.webp"]
+    },
+    {
+        "id": 112,
+        "name": "Chuối sấy giòn",
+        "brand": "Dalat Banana",
+        "features": "Chuối sấy giòn tự nhiên, giòn rụm và ngon miệng.",
+        "currentPrice": 54000,
+        "discount": 10,
+        "originalPrice": 60000,
+        "rating": 4.5,
+        "soldInfo": "(1400) | Đã bán 1.1k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 250.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "BANANA10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Dalat Banana",
+            "brandOrigin": "Việt Nam",
+            "material": ["Chuối sấy giòn tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.2 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 54000,
+        "quantity": 1,
+        "mainImage": "../images/chuoisay1.webp", 
+        "additionalImages": ["../images/chuoisay2.webp", "../images/chuoisay3.webp"]
+    },
+    {
+        "id": 113,
+        "name": "Me sấy khô",
+        "brand": "Tam Duc",
+        "features": "Me khô tự nhiên, vị chua ngọt hấp dẫn.",
+        "currentPrice": 69000,
+        "discount": 15,
+        "originalPrice": 81000,
+        "rating": 4.6,
+        "soldInfo": "(1600) | Đã bán 1.4k",
+        "shipping": {
+            "destination": "Cần Thơ",
+            "deliveryDate": "Giao hàng từ 3-6 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 400.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "TAMARIND15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Tam Duc",
+            "brandOrigin": "Việt Nam",
+            "material": ["Me khô tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.3 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 69000,
+        "quantity": 1,
+        "mainImage": "../images/mesay1.webp", 
+        "additionalImages": ["../images/mesay2.webp", "../images/mesay3.webp"]
+    },
+    {
+        "id": 114,
+        "name": "Hạt chia organic",
+        "brand": "Chia Seed Farm",
+        "features": "Hạt chia organic nhập khẩu, giàu dinh dưỡng.",
+        "currentPrice": 80000,
+        "discount": 25,
+        "originalPrice": 106000,
+        "rating": 4.9,
+        "soldInfo": "(3200) | Đã bán 4k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 350.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "CHIA25",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Chia Seed Farm",
+            "brandOrigin": "Úc",
+            "material": ["Hạt chia tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Úc",
+            "weight": "0.5 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 80000,
+        "quantity": 1,
+        "mainImage": "../images/hatchia1.webp", 
+        "additionalImages": ["../images/hatchia2.webp", "../images/hatchia3.webp"]
+    },
+    {
+        "id": 115,
+        "name": "Óc chó nhập khẩu",
+        "brand": "Nature Walnuts",
+        "features": "Hạt óc chó nguyên chất, giàu dinh dưỡng và tốt cho sức khỏe.",
+        "currentPrice": 165000,
+        "discount": 20,
+        "originalPrice": 206000,
+        "rating": 4.8,
+        "soldInfo": "(2500) | Đã bán 3k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 450.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "WALNUT20",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Nature Walnuts",
+            "brandOrigin": "Mỹ",
+            "material": ["Hạt óc chó tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Mỹ",
+            "weight": "0.5 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 165000,
+        "quantity": 1,
+        "mainImage": "../images/occho1.webp", 
+        "additionalImages": ["../images/occho2.webp", "../images/occho3.webp"]
+    },
+    {
+        "id": 116,
+        "name": "Mít sấy giòn",
+        "brand": "Fruity Crunch",
+        "features": "Mít sấy giòn, không phẩm màu, không chất bảo quản.",
+        "currentPrice": 60000,
+        "discount": 15,
+        "originalPrice": 70000,
+        "rating": 4.5,
+        "soldInfo": "(1200) | Đã bán 1k",
+        "shipping": {
+            "destination": "Đà Nẵng",
+            "deliveryDate": "Giao hàng từ 2-4 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "JACK15",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Fruity Crunch",
+            "brandOrigin": "Việt Nam",
+            "material": ["Mít sấy giòn tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.2 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 60000,
+        "quantity": 1,
+        "mainImage": "../images/mitsay1.webp", 
+        "additionalImages": ["../images/mitsay2.webp", "../images/mitsay3.webp"]
+    },
+    {
+        "id": 117,
+        "name": "Dừa sấy giòn",
+        "brand": "Coco Crunch",
+        "features": "Dừa sấy giòn, vị béo tự nhiên, không chất bảo quản.",
+        "currentPrice": 55000,
+        "discount": 10,
+        "originalPrice": 62000,
+        "rating": 4.7,
+        "soldInfo": "(900) | Đã bán 800",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-2 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 300.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "COCONUT10",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Coco Crunch",
+            "brandOrigin": "Việt Nam",
+            "material": ["Dừa sấy giòn tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.2 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 55000,
+        "quantity": 1,
+        "mainImage": "../images/duasay1.webp", 
+        "additionalImages": ["../images/duasay2.webp", "../images/duasay3.webp"]
+    },
+    {
+        "id": 118,
+        "name": "Khoai lang sấy giòn",
+        "brand": "Yam Delight",
+        "features": "Khoai lang sấy giòn tự nhiên, hương vị thơm ngon.",
+        "currentPrice": 57000,
+        "discount": 8,
+        "originalPrice": 62000,
+        "rating": 4.6,
+        "soldInfo": "(1100) | Đã bán 1.2k",
+        "shipping": {
+            "destination": "Hà Nội",
+            "deliveryDate": "Giao hàng từ 3-5 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 350.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "YAM8",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Yam Delight",
+            "brandOrigin": "Việt Nam",
+            "material": ["Khoai lang sấy giòn tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.25 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 57000,
+        "quantity": 1,
+        "mainImage": "../images/khoaisay1.webp", 
+        "additionalImages": ["../images/khoaisay2.webp", "../images/khoaisay3.webp"]
+    },
+    {
+        "id": 119,
+        "name": "Mận khô",
+        "brand": "Sun Plum",
+        "features": "Mận khô tự nhiên, giàu vitamin và khoáng chất.",
+        "currentPrice": 90000,
+        "discount": 12,
+        "originalPrice": 102000,
+        "rating": 4.8,
+        "soldInfo": "(2300) | Đã bán 2k",
+        "shipping": {
+            "destination": "Hồ Chí Minh",
+            "deliveryDate": "Giao hàng từ 1-3 ngày",
+            "shippingInfo": "Miễn phí vận chuyển cho đơn hàng trên 400.000₫",
+            "freeshipInfo": "Miễn phí giao hàng",
+            "offers": {
+                "offerCode": "PLUM12",
+                "discountLink": "Link giảm giá"
+            }
+        },
+        "details": {
+            "capacity": "",
+            "brand": "Sun Plum",
+            "brandOrigin": "Việt Nam",
+            "material": ["Mận khô tự nhiên"],
+            "model": "",
+            "size": "",
+            "madeIn": "Việt Nam",
+            "weight": "0.4 kg",
+            "guarantee": ""
+        },
+        "totalAmount": 90000,
+        "quantity": 1,
+        "mainImage": "../images/mankho1.webp", 
+        "additionalImages": ["../images/mankho2.webp", "../images/mankho3.webp"]
+    }    
+]

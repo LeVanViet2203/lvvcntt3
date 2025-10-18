@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Sản Phẩm</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/sanpham.css">
+    <link rel="stylesheet" href="../css/thanhtoan.css">
+    <link rel="stylesheet" href="../css/dangnhap_2.css">
+</head>
+<body>
+    <!-- modal -->
+    <div class="modal_over show">
+        <div class="modal_body show">
+            <i id="close" class="fas fa-window-close close"></i>
+            <div class="container">
+                <h1>Sign up</h1>
+                <form>
+                <div class="form-control">
+                    <input type="text" id="username" placeholder="Username" />
+                    <span></span>
+                    <small></small>
+                </div>
+                <div class="form-control">
+                    <input type="password" id="password" placeholder="Password" />
+                    <span></span>
+                    <small></small>
+                </div>
+                <input type="submit" value="Login" />
+                <div class="signup_link">Not a member? <a href="../html/dangki.html">Đăng kí</a></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="modal_over1 show">
+        <div class="container show">
+            <i id="close2" class="fas fa-window-close close-2"></i>
+            <div class="food-menu">
+                    <h1>Hình thức thanh toán </h1>
+                <button class="active">Thanh toán khi nhận hàng </button>
+                <button type-food="momo">Momo</button>
+                <button type-food="meat">MB bank</button>
+                <button type-food="drinks">Viettel money</button>
+                
+            </div>
+            <div class="food-list">
+                <div class="food-item hide" type-food="momo">
+                    <img src="../images/momobank.jpg " alt="">
+                    
+                </div>
+                <div class="thongtin">
+                    Kính gửi Quý khách hàng,<br>
+                    Cảm ơn Quý khách đã tin tưởng và lựa chọn Toko market! Nếu cần hỗ trợ, vui lòng liên hệ với chúng tôi qua hehe@gmail.vn hoặc 099.
+                    <br>Trân trọng,<br>
+                    Toko
+                </div>
+                <div class="food-item hide" type-food="drinks">
+                    <img src="../images/viettelmoneybank.jpg" alt="">
+                </div>
+                <div class="food-item hide " type-food="meat">
+                    <img src="../images/mbbank.jpg" alt="">
+                </div>
+                <div class="food-item hide" type-food="dessert">
+                    <img src="dessert1.jpg" alt="">
+                </div>
+            </div>
+            <div class="thongtinnguoinhan">
+            <h1>Thông tin giao hàng</h1>
+                <label for="name">Họ tên:</label><br>
+                <input id="name" size="100" type="text" placeholder="Vui lòng nhập tên !"><br>
+                <label for="address">Địa chỉ giao hàng</label> <br>
+                <input type="text" size="100" id="address" placeholder="Vui lòng nhập địa chỉ !"><br>
+                <label for="num">Số điện thoại</label><br>
+                <input type="text" size="100" id="num" placeholder="Vui lòng nhập số điện thoại người nhận !">
+
+            </div>
+            <div class="mua">
+                <button> Mua Ngay</button>
+            </div>
+        </div>
+    </div>
+    <!-- end modal -->
+    <!-- header -->
+    <header>
+        <div class="top-bar">
+            <div class="logo">
+                <img src="../images/hehe.png">
+            </div>
+            <div class="search-bar">
+                <div class="tim">
+                    <i class="fas fa-search iconseach"></i>
+                    <input type="text" id="searchInput" placeholder="Tìm kiếm mặt hàng bạn thích">
+                    <button id="searchButton">Tìm kiếm</button>
+                </div>
+            </div>
+            <div class="acc">
+                    <div class="trangchu">
+                        <a href="trangchu.html">
+                        <i class="fas fa-home"></i>Trang chủ</a>
+                    </div>
+                    
+                    <div id="login" class="account-button">
+                        
+                            <i class="fas fa-user"></i>  Tài khoản
+                        
+                    </div>
+
+                    <div class="cart-button">
+                        <a href="../html/cart.html">
+                            <i class="fas fa-shopping-cart"></i>
+                            <span id="cart-count">0</span> <!-- Cart count badge -->
+                        </a>
+                    </div>
+            </div> 
+        </div>
+
+        <div class="thanhduoihead">
+
+            <div class="check_1">
+                Cam kết
+            </div>
+
+            <div class="check">
+                <i class="fas fa-check-circle"></i>100% Hàng thật
+            </div>
+
+            <div class="check">
+                <i class="fas fa-truck"></i> Free ship mọi đơn
+            </div>
+
+            <div class="check">
+                <i class="fas fa-clock"></i>Giao hàng nhanh
+            </div>
+
+            <div class="check">
+                <i class="fas fa-dollar-sign"></i>Hoàn 200% nếu hàng giả
+            </div>
+
+            <div class="check">
+                <i class="fas fa-phone"></i></i>0868.324.360
+            </div>
+
+        </div>
+    </header>
+    <!-- end header -->
+
+<div class="row">
+    <div class="col-3 col-s-3 menu" class="left-section">
+        <div class="left">
+            <div class="image">
+                <img id="img" onclick="changeImage(this.src)" src="" alt="">
+            </div>
+            <div class="anh">
+                <img src="" alt="" class="anh1" onclick="changeImage(this.src)">
+                <img src="" alt="" class="anh1" onclick="changeImage(this.src)">
+            </div>
+            <div>
+                <h6>Đặc điểm nổi bật</h6>
+                <div>
+                    <p id="features"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-6 col-s-9">
+        <div class="middle">
+            <div class="middle-section">
+                <div class="promotions">
+                    <img src="../images/topdeal.png" alt="Top Deal">
+                    <img src="../images/30ngay.png" alt="30 Ngày">
+                    <img src="../images/chinhhang.png" alt="Chính Hãng">
+                </div>
+                <h6>Thương hiệu: <a href="#" id="brand"></a></h6>
+                <h1 id="product-name"></h1>
+                
+                <div class="rating">
+                    <span id="rating"></span>
+                    <span class="stars">★★★★★</span>
+                    <span id="sold-info"></span>
+                </div>
+                
+                <div class="price">
+                    <div class="current-price" id="current-price"></div>
+                    <p class="discount" id="discount"></p>
+                    <del class="original-price" id="original-price"></del>
+                </div>
+            </div>
+
+            <div class="shipping-info">
+                <h6>Thông tin vận chuyển</h6>
+                <div class="shipping-details">
+                    <span id="shipping-destination"></span>
+                    
+                </div>
+                <div class="delivery-date">
+                    <img src="../images/freeship.png" alt="Giao hàng">
+                    <span id="delivery-date"></span>
+                </div>
+                <div class="day">
+                    <p id="shipping-info"></p>
+                </div>
+                <img src="../images/freextra.png" alt="Freeship" class="freeship">
+                <p id="freeship-info"></p>
+            </div>
+            
+            <div class="offers">
+                <h6>Ưu đãi khác</h6>
+                <div class="offers1">
+                    <span id="offer-code"></span>
+                    <span class="discount-code"><a href="#" id="discount-link"></a></span>
+                </div>
+            </div>
+
+            <div class="purchase-info">
+                <h6><a href="#">An tâm mua sắm</a></h6>
+                <div class="purchase-icons">
+                    <div class="icons">
+                        <div class="icon"><img src="../images/icon1.png" alt="Icon 1"> </div>
+                        <div>
+                             <span>Được đồng kiểm khi nhận hàng</span>
+                        </div>
+                    </div>
+                    <div class="icons">
+                        <div class="icon"><img src="../images/icon2.png" alt="Icon 2"> </div>
+                        <div>
+                            <span>Được hoàn tiền 200% nếu là hàng giả.</span>
+                        </div>
+                    </div>
+                    <div class="icons">
+                        <div class="icon"><img src="../images/icon3.png" alt="Icon 3"></div>
+                        <div>
+                             <span>Được đồng kiểm khi nhận hàng</span>
+                        </div> 
+                    </div>
+                   
+                </div>
+            </div>
+
+            <div class="product-details">
+                <h6>Thông tin chi tiết</h6>
+                <div class="table">
+                    <div class="table-row">
+                        <p class="table-text">Dung tích</p>
+                        <p id="details-capacity"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Thương hiệu</p>
+                        <p id="details-brand"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Xuất xứ thương hiệu</p>
+                        <p id="details-brandOrigin"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Chất liệu</p>
+                        <ul id="details-material"></ul>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Model</p>
+                        <p id="details-model"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Kích thước</p>
+                        <p id="details-size"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Xuất xứ (Made in)</p>
+                        <p id="details-madeIn"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Trọng lượng</p>
+                        <p id="details-weight"></p>
+                    </div>
+                    <div class="table-row">
+                        <p class="table-text">Chính sách bảo hành</p>
+                        <p id="details-guarantee"></p>
+                    </div>
+                </div>
+                <!-- Các thông tin chi tiết khác... -->
+            </div>
+        </div>
+    </div>
+   
+    <div class="col-3 col-s-12">
+        <div class="right">
+            <div class="seller-info">
+                <img src="../images/hehe2.png" class="Toko" alt="Toko Trading">
+                <div>
+                    <a href="#" class="seller-name">Toko Trading</a>
+                    <img src="../images/official.jpg" alt="Official">
+                </div>
+                <div>
+                    <span class="rating" id="seller-rating"></span>  
+                    <span class="stars">★</span>
+                    <span class="rating-text" id="seller-rating-text"></span>
+                </div>
+            </div>
+    
+            <div class="quantity-control">
+                <p>Số Lượng</p>
+                <div class="input-group">
+                    <button id="decrease-btn" onclick="changeQuantity(-1)">-</button>
+                    <input type="text" value="1" id="quantity-input" readonly>
+                    <button id="increase-btn" onclick="changeQuantity(1)">+</button>
+                </div>
+            </div>
+    
+            <div class="total">
+                <p>Tổng tiền tạm tính</p>
+                <div class="total-amount"></div>
+            </div>
+    
+            <div class="buy-options">
+                <button id="muangay" class="buy1">Mua ngay</button>
+                <button class="add-to-cart">Thêm vào giỏ</button>
+                
+            </div>
+        </div>
+    </div>     
+
+    <!-- footer -->
+    <footer>
+        <div class="footer-container">
+            <div class="footer-column">
+                <h3>Hỗ trợ Khách hàng</h3>
+                <p>Hotline: <strong>1900-6035</strong></p>
+                <ul>
+                    <li>Các câu hỏi thường gặp</li>
+                    <li>Gửi yêu cầu hỗ trợ</a></li>
+                    <li>Hướng dẫn đặt hàng</a></li>
+                    <li>Phương thức vận chuyển</a></li>
+                    <li>Chính sách đổi trả</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Về Toko</h3>
+                <ul>
+                    <li>Giới thiệu Toko</li>
+                    <li>Toko Blog</a></li>
+                    <li>Tuyển dụng</a></li>
+                    <li>Chính sách bảo mật</a></li>
+                    <li>Điều khoản sử dụng</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Hợp tác và liên kết</h3>
+                <ul>
+                    <li>Quy chế hoạt động Sàn GDTMĐT</a></li>
+                    <li>Bán hàng cùng Toko</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Phương thức thanh toán</h3>
+                <img src="../images/thanhtoan.png" alt="Payment method 1">  
+            </div>
+            <div class="footer-column">
+                <h3>Kết nối với chúng tôi</h3>
+                <a href="#"><img src="../images/facebook.png" alt=""></a>  <a href="#"><img src="../images/youtube.png" alt=""></a>  <a href="#"><img src="../images/zalo.png"></a>
+            </div>
+        </div>
+    </footer>
+    <!--end footer -->
+    
+    <script src="../java/dangnhap.js"></script>
+    <script src="../java/thanhtoan.js"></script>
+    <script src="../java/sanpham.js"></script>  
+</body>
+</html>

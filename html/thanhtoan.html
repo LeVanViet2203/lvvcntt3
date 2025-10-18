@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trangchu</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/thanhtoan.css">
+</head>
+<body>
+  
+        <div class="container">
+            <i id="close" class="fas fa-window-close close-2"></i>
+            <div class="food-menu">
+                    <h1>Hình thức thanh toán </h1>
+                <button class="active">Thanh toán khi nhận hàng </button>
+                <button type-food="momo">Momo</button>
+                <button type-food="meat">MB bank</button>
+                <button type-food="drinks">Viettel money</button>
+                
+            </div>
+            <div class="food-list">
+                <div class="food-item hide" type-food="momo">
+                    <img src="../images/momobank.jpg " alt="">
+                    
+                </div>
+                <div class="thongtin">
+                    Kính gửi Quý khách hàng,<br>
+                    Cảm ơn Quý khách đã tin tưởng và lựa chọn Toko market! Nếu cần hỗ trợ, vui lòng liên hệ với chúng tôi qua hehe@gmail.vn hoặc 099.
+                    <br>Trân trọng,<br>
+                    Toko
+                </div>
+                <div class="food-item hide" type-food="drinks">
+                    <img src="../images/viettelmoneybank.jpg" alt="">
+                </div>
+                <div class="food-item hide " type-food="meat">
+                    <img src="../images/mbbank.jpg" alt="">
+                </div>
+                <div class="food-item hide" type-food="dessert">
+                    <img src="dessert1.jpg" alt="">
+                </div>
+            </div>
+            <div class="thongtinnguoinhan">
+            <h1>Thông tin giao hàng</h1>
+                <label for="name">Họ tên:</label><br>
+                <input id="name" size="100" type="text" placeholder="Vui lòng nhập tên !"><br>
+                <label for="address">Địa chỉ giao hàng</label> <br>
+                <input type="text" size="100" id="address" placeholder="Vui lòng nhập địa chỉ !"><br>
+                <label for="num">Số điện thoại</label><br>
+                <input type="text" size="100" id="num" placeholder="Vui lòng nhập số điện thoại người nhận !">
+
+            </div>
+            <div class="mua">
+                <button> Mua Ngay</button>
+            </div>
+        </div>
+    
+    <script src="../java/thanhtoan.js"></script>
+</body>
+</html>
